@@ -1,0 +1,359 @@
+CAP 4922 - Data Science Capstone Project
+
+Deliverable 5 - Final Report
+
+Due date: April 29
+
+The deliverable 5 submission should include the following items:
+
+Executive Summary
+
+The Executive Summary is a concise, high-impact synthesis of your project (250-400 words). It serves as a strategic briefing for stakeholders who require a comprehensive understanding of the project's value, technical validity, and bottom-line results without reviewing the full technical dossier.
+
+Your summary must integrate the following four dimensions:
+
+The Value Proposition (Problem & Objective):
+Clearly articulate the specific real-world challenge or market inefficiency addressed. Define the project's core objective and the specific data product, model, or innovation developed to bridge the gap between the current state and the desired outcome.
+
+Technical Strategy (Methodology):
+Summarize the architectural approach. Identify the primary data streams utilized and the sophisticated data science frameworks or algorithmic paradigms employed. Focus on why these methods were selected to ensure the integrity and scalability of the solution.
+
+Validated Outcomes (Key Results):
+Present the most significant empirical findings. The finding statements must include high-level performance metrics, validated trends, or critical insights unearthed during deep-dive exploratory analysis. Distill complex data into clear evidence of project success.
+
+Strategic Roadmap (Impact & Recommendations):
+Translate findings into a forward-looking strategy. Provide explicit, data-backed recommendations for the stakeholder. Detail how the implementation of your results will drive measurable impact, mitigate risk, or create a competitive advantage.
+
+Introduction
+
+The Introduction serves as the strategic framework for your report. It bridges the gap between a high-level industry challenge and your specific data science intervention. This section must be accessible to non-technical stakeholders while maintaining the analytical rigor required to justify your technical choices.
+
+Structure this section to address the following pillars:
+
+Contextual Landscape (The Big Picture):
+Establish the broader industry or research environment. Explain why this domain is a current priority and identify the specific, persistent pain point or untapped opportunity. You must clearly articulate the "cost of inaction" if this problem remains unaddressed.
+
+The Proposed Intervention (The Innovation):
+Clearly define your technical solution, model, or analytical product. Articulate the unique methodology or perspective you are bringing to the problem. Focus on how this specific approach fills the gap identified in the landscape analysis.
+
+Mission & Parameters (Objectives & Scope):
+Define the precise goals of the analysis. Enumerate the core research questions your project is engineered to answer. Define the boundaries of your work (the scope) and the specific, measurable benchmarks that will constitute a "successful" outcome.
+
+Strategic Value (Value Proposition):
+Conclude by quantifying the potential impact. Describe how this work advances current knowledge, optimizes existing processes, or creates a new competitive advantage. The reader should finish this section convinced of the project's relevance and necessity.
+
+Problem Definition
+
+The Problem Definition converts a high-level interest into a rigorous, actionable data science mission. This section serves as the formal foundation of the project, defining the specific challenge being solved, the entities it serves, and the rigorous standards by which the solution will be evaluated.
+
+Address the following foundational components:
+
+Entity Impact & Core Friction:
+Identify the specific primary stakeholders-whether they be organizations, government agencies, non-profits, or specific research communities-who are impacted by the current state. Clearly articulate the "friction point": the specific information gap, manual inefficiency, or lack of visibility that your project aims to resolve.
+
+The Analytical Objective:
+Define the technical nature of your solution. State clearly whether you are testing a predictive hypothesis, building an automated data architecture, developing a diagnostic tool, or creating a descriptive framework (e.g., clustering or visualization). Specify exactly what the data product is intended to reveal, automate, or optimize.
+
+Performance Benchmarks (Success Criteria):
+Define "success" through a multidimensional framework that addresses technical performance, functional utility, and stakeholder impact. Identify the primary quantitative benchmarks specific to your output-whether these are model performance scores, system latency requirements, cluster stability, or data integrity standards. Beyond these metrics, clearly articulate the qualitative or operational thresholds your solution must meet to be considered "implementable." Explicitly link these technical results to the real-world goals established in your Introduction, defining how your findings or product will move from a theoretical exercise to a tool that provides actionable value or solves the identified friction point.
+
+Operational Boundaries (Assumptions & Constraints):
+Explicitly disclose the environment in which your solution operates. State the fundamental assumptions you are making regarding the data's representativeness or the stability of the underlying system. Detail any technical, temporal, or data-access limitations that defined the project's scope.
+
+Background & Research
+
+The Background section demonstrates that a solid understanding of both the problem domain and existing solutions informs your technical decisions. Use this section to synthesize insights from credible sources-such as academic papers, industry whitepapers, or technical documentation-to justify your project's direction and prove you are not "reinventing the wheel."
+
+Your review should address the following:
+
+The Current Landscape:
+Summarize how this problem is typically approached in both research and industry. Identify the standard methodologies, algorithmic paradigms, or data architectures that define the current "best practices." What are the foundational theories or commercial tools currently used to address this challenge?
+
+Gap Analysis:
+Discuss the known challenges, recurring pain points, or data limitations inherent in previous approaches. Whether found in academic literature or industry case studies, identify what remains unsolved, inefficient, or inaccessible for your specific stakeholder.
+
+Technical Justification (Differential Value):
+Clearly state how your project builds upon, diverges from, or improves these prior methods. Are you applying a peer-reviewed technique to a new domain, integrating a unique dataset, or focusing on a specific niche that existing research and tools have overlooked?
+
+Core Concepts & Frameworks:
+Briefly explain any specialized terminology, industry-specific logic, or theoretical frameworks essential to understanding your project. These concepts should provide the technical and domain-specific "first principles" a reader needs to follow your methodology.
+
+Lifecycle Process
+
+This section outlines the end-to-end operational framework guiding the project from conception to delivery. Rather than reporting technical findings, focus on the methodology of your workflow. Discussions in this section should demonstrate your ability to manage a data science project through a structured, iterative, and professional lifecycle.
+
+Briefly document the execution of each phase:
+
+Discovery & Acquisition:
+Detail the strategy for identifying and obtaining the necessary data streams. Describe how you translated stakeholder needs into a structured technical objective and the process used to secure and verify the raw data required for the project.
+
+Data Refinement & Scrubbing:
+Explain the systematic approach taken to transform raw, "noisy" data into a reliable, high-quality state. Focus on the logic behind your cleaning protocols, handling of anomalies, and the standardization required to ensure the integrity of the downstream analysis.
+
+Exploratory Discovery & Feature Insight:
+Describe the process of deep-diving into the data to uncover underlying patterns and relationships. Explain how the insights gained during this phase informed your technical strategy or forced a refinement of your original project scope.
+
+Methodological Modeling & Validation:
+Outline the framework used for selecting, building, and testing your analytical approaches. Detail the validation protocols employed to ensure the reliability and generalizability of your outputs, focusing on how you ensured the solution was robust.
+
+Interpretation & Synthesis:
+Discuss the process of translating technical outputs into actionable insights. Describe how you measured results against your success criteria and synthesized the findings into a final delivery strategy-whether as an implementation plan, a dashboard, or a set of strategic recommendations.
+
+Visualizing the Lifecycle:
+Include a Lifecycle Diagram that maps your team's specific journey. The diagram must illustrate the non-linear nature of the work; use arrows to highlight feedback loops (e.g., how insights from the Exploration phase necessitated a return to Data Scrubbing) to reflect a professional data science process.
+
+Technical Stack & AI Integration
+
+Document the ecosystem of tools, languages, and platforms that enabled your solution. In this section, you must provide a transparent accounting of your technical choices and a formal disclosure of how Generative AI was utilized to assist in the research, engineering, or optimization of your project.
+
+Address the following pillars:
+
+Core Programming & Frameworks:
+Identify the primary programming languages (e.g., Python, R, SQL) and the specific version-controlled environments used. List the essential libraries and frameworks that powered your data manipulation, visualization, and modeling workflows.
+
+Infrastructure & Platforms:
+Detail the computational environment where the work was executed. This section should include a discussion on cloud platforms, database management systems, or specialized hardware configurations required to handle the scale or complexity of the data.
+
+Generative AI Utilization & Disclosure:
+Provide a formal statement on the role of Generative AI (e.g., LLMs for code generation, debugging, or document drafting). Specify:
+Application Areas: Identify where AI was used (e.g., boilerplate code, SQL query optimization, or report narrative refinement).
+Validation Protocol: Describe your process for verifying the accuracy, security, and logic of AI-assisted outputs. How did you ensure the code was robust and the information factually correct?
+
+Technical Accountability:
+Conclude by confirming that all final outputs-whether human-authored or AI-assisted-remain the intellectual responsibility of the project team and have been rigorously validated for integrity.
+
+Data Sources
+
+This section provides a formal accounting of the data assets integrated into your project. You must establish the technical credibility, authenticity, and strategic relevance of each source, demonstrating a professional commitment to data governance and evidence-based selection.
+
+For each distinct data stream, document the following:
+
+Provenance & Authenticity:
+Identify the formal origin of the data (e.g., specific public repositories, API endpoints, or institutional databases). Provide a critical assessment of the source's authenticity-discussing the reputation of the providing entity and the reliability of their data collection methods. Document the temporal boundaries, including the specific timeframe covered by the records and the date of retrieval.
+
+Unit of Analysis:
+Clearly define the "atom" of your data for each source. Specify exactly what an individual observation or record represents. If different sources use different units (e.g., one tracks individual events while another tracks monthly averages), explain how these granularities relate to one another.
+
+
+
+Technical Profile & Scale:
+Define the data's structural profile, including file formats, schema types, and the precise scale of the information (record counts, dimensionality, and storage volume). If your project synthesizes multiple sources, detail the relational logic and the primary keys used to merge these disparate units into a unified framework.
+
+Strategic Relevance & Domain Alignment:
+Clearly articulate the specific role each dataset plays in resolving your problem statement. You must justify the selection of these data sources by citing relevant literature, industry benchmarks, or previous research that validates their use for this type of analysis. Explain why these specific variables or attributes are essential to your objectives.
+
+Ethics, Privacy, & Governance:
+Address the legal and ethical framework governing your data. Document specific usage licenses and any privacy-preserving measures applied, such as de-identification or anonymization. Explicitly state how your handling of the data complies with relevant privacy standards and ethical research practices.
+
+Overview of Key Variables
+
+This section defines the core analytical drivers of your project. Rather than providing an exhaustive list of every attribute in your dataset, focus on the key variables that most significantly influence your model's performance, provide the deepest insights, or represent the primary "levers" of your solution.
+
+For the selected variables, document the following:
+
+Variable Taxonomy & Metadata:
+Provide a formal inventory of key attributes, including their precise data types (e.g., categorical, continuous, ordinal, or time-series). Include a concise, domain-specific definition for each to ensure the reader understands exactly what each metric represents in the real world.
+
+Source Attribution:
+Explicitly link each variable to its specific origin from your Data Source Inventory. If a variable is a hybrid or composite of multiple sources, document the contributing datasets to ensure full transparency and auditability of your inputs.
+
+Selection Rationale & Domain Mapping:
+Justify the inclusion of these specific variables. Explain their theoretical or practical relationship to the problem defined in your Introduction. Use domain research or preliminary correlation analysis to explain why these features are expected to have predictive or descriptive power.
+
+Feature Engineering & Derived Intelligence:
+Detail the logic behind any new variables or indicators created during the project (e.g., transformed scales, calculated ratios, or complex aggregations). Explain how these engineered features capture latent information or interactions that were not accessible in the raw data.
+Statistical Profiles & Relationship Dynamics:
+Summarize the behavior of these variables using high-impact visualizations (e.g., distribution plots, box plots, or multifaceted heatmaps). Discuss the critical characteristics of central tendency, variance, and collinearity. This discussion should go beyond a simple description to explain how the behavior of these variables impacts your overall analytical approach.
+
+Data Cleaning and Preprocessing
+
+Detail the systematic pipeline used to transform raw, noisy data into a high-quality, "analysis-ready" format. This section serves as the technical record of your data governance, documenting how you ensured data integrity, mitigated bias, and optimized the feature space to meet your specific analytical goals.
+
+For each stage of your preprocessing workflow, document the following:
+
+Integrity & Remediation Strategy:
+Detail your approach to addressing incomplete, inconsistent, or corrupted data. Document the specific logic used for handling missing values (e.g., imputation vs. deletion) and the rigorous criteria used to identify and manage outliers or anomalous entries.
+
+Feature Transformation & Scaling:
+Describe the mathematical adjustments made to your variables to ensure compatibility with your chosen algorithms. Specify your approach to normalization, standardization, or power transformations, and explain why these methods were technically appropriate for your specific data distributions.
+
+Encoding & Vectorization:
+Define the methods used to convert non-numeric or categorical attributes into machine-readable formats. Discuss how you handled high-cardinality features, text-based data, or the grouping of categories to maintain model efficiency and prevent the "curse of dimensionality."
+
+Optimization & Feature Selection:
+Document any techniques used to refine the feature space, such as dimensionality reduction or automated feature selection. Explain how these steps managed architectural complexity, reduced multicollinearity, or prevented overfitting.
+
+Technical Rationale & Impact:
+For every major preprocessing intervention, provide a clear, evidence-based rationale. Conclude by summarizing how these transformations directly improved the reliability, stability, or predictive power of your final solution.
+
+Exploratory Data Analysis (EDA) & Discovery
+
+The EDA section is a rigorous, visual, and quantitative interrogation of your dataset. Its purpose is to move beyond simple summaries to uncover the underlying patterns, anomalies, and relationships that define the data's behavior. This phase is critical for validating your assumptions and refining your technical strategy before moving into modeling or implementation.
+
+Address the following pillars in your exploration:
+
+Distributional Profiling:
+Examine the central tendency, dispersion, and shape of your primary variables. Use metrics such as the mean, median, standard deviation, and skewness to characterize the data formally. This analysis must determine whether your variables meet the underlying assumptions of your proposed analytical methods (e.g., normality and homoscedasticity).
+
+High-Impact Visual Interrogation:
+Utilize professional-grade visualizations-such as density plots, multifaceted box plots, or violin plots-to reveal data density and isolate subtle anomalies. Use these visuals to compare distributions across different subgroups or time horizons, highlighting any significant variances that suggest deeper underlying trends.
+
+Relational & Multivariate Dynamics:
+Explore the interactions between features and your primary objective (e.g., target variable, cluster centers, or pipeline bottlenecks). Use correlation matrices, scatter plots, or contingency tables to identify dependencies, multicollinearity, or non-linear trends. This sub-section must pinpoint the strongest "signals" amid the dataset's noise.
+
+Discovery Synthesis & Strategy Alignment:
+Conclude by discussing how these exploratory findings directly informed your technical roadmap. Explicitly state how the observed patterns-or lack thereof-dictated your specific feature selection, model architecture, or hyperparameter tuning. What did the data reveal during this interrogation that justifies your final analytical approach?
+
+Modeling & Algorithmic Strategy
+
+This section details the transition from data exploration to the engineering of a functional solution. You must document the selection, training, and optimization of your analytical models. Your goal is to demonstrate a "principled approach"-proving that your final model was not chosen at random, but was the result of a systematic evaluation of candidate architectures.
+
+Address the following pillars in your modeling workflow:
+
+Candidate Model Evaluation & Selection:
+Identify the diverse range of algorithmic architectures considered during the discovery phase. Categorize these models (e.g., supervised vs. unsupervised, parametric vs. non-parametric) and explain the specific rationale for their inclusion. Discuss the trade-offs considered, such as interpretability versus predictive power, or computational scalability versus model complexity.
+
+
+
+Methodological Justification:
+Provide a rigorous defense of your "champion" model. Explain why this specific architecture was chosen over the alternative candidates. Discuss how the nature of your data (e.g., high-dimensionality, class imbalance, or non-linear relationships) and the needs of your stakeholders dictated this final choice.
+
+Model Input & Feature Engineering Strategy:
+Perform a "deep dive" into the final feature set utilized in your model. Document the specific selection process used to move from the broad variables identified in your EDA to the final "model-ready" inputs. Justify any final-stage engineering, such as interaction terms or dimensionality reduction, that was required to maximize model performance.
+
+Training Protocol & Optimization:
+Detail the rigorous pipeline used to build and tune your solution. This section must include:
+Data Partitioning: Describe your strategy for splitting data (e.g., train/test/validation sets or k-fold cross-validation) to ensure the model generalizes to unseen data.
+
+Hyperparameter Tuning: Document the systematic search space and optimization procedures used (e.g., grid, random, or Bayesian search) to refine model parameters.
+
+Technical Environment: Identify the software frameworks, libraries, and computational platforms utilized to execute the training process.
+
+Interim Performance Monitoring:
+Mention the specific diagnostic metrics used during the training phase to monitor progress, detect overfitting, and guide the iterative refinement of the model architecture.
+
+Evaluation & Performance Analysis
+
+The Evaluation section provides a rigorous, empirical assessment of your model's performance. This section's discussion is not merely a report of technical scores; it is a critical analysis of your solution's reliability and its ability to solve the problem defined in your Introduction. You must present your results through a multidimensional lens, utilizing both statistical metrics and high-impact visualizations.
+
+Address the following pillars in your evaluation:
+
+Quantitative Performance Metrics:
+Present a formal summary of your results using the benchmarks most relevant to your specific analytical architecture. You must include:
+For Classification: Report on accuracy, precision, recall, F1-score, and ROC-AUC.
+For Regression: Document Mean Squared Error (MSE), Root Mean Squared Error (RMSE), and R-squared (R2).
+For Clustering: Provide the Silhouette Score, Davies-Bouldin Index, or Calinski-Harabasz Index to validate cluster separation and density.
+Comparative Analysis: Include a "Leaderboard" or side-by-side comparison of your champion model against the baseline or candidate models considered in the previous section.
+
+Visual Diagnostic Analysis:
+Use professional-grade charts to illustrate the nuances of your results. Depending on your project type, include tools such as Confusion Matrices, ROC/Precision-Recall Curves, Residual Plots, or Cluster Visualizations. These should be used to identify specific areas where the model excels or systematically fails.
+
+The "Why" Behind the Numbers (Interpretation):
+Move beyond the data dump. Interpret what these metrics mean in the context of your problem. Explain why certain classes were harder to predict, why certain residuals are skewed, or why specific clusters emerged. Discuss the trade-offs-such as the balance between false positives and false negatives-and how these impact the final utility of the project.
+
+Validation of Success:
+Explicitly map these results back to the Success Criteria defined in your Problem Definition. Did the model meet the required implementation thresholds? Conclude with a transparent discussion of what worked, what did not, and the technical reasons for the observed performance.
+
+Discussion of Findings & Strategic Alignment
+
+The Discussion serves as the analytical bridge between your technical outputs and the real-world problem defined at the start of this report. In this section, you must synthesize your findings into a coherent narrative of discovery, proving that your solution provides genuine utility and addresses the core friction points of your stakeholders.
+
+Address the following pillars in your discussion:
+
+Synthesis of Major Insights:
+Distill the high-level "knowledge" extracted from your model or analysis. Move beyond reporting coefficients or clusters to explain the actual patterns discovered. What does the model reveal about the underlying system, behavior, or process that was previously unknown or unquantified?
+
+Direct Problem Alignment:
+Explicitly connect your results back to your original Problem Definition. How do these specific insights or the functional tool you've built directly mitigate the pain points of your stakeholders? Demonstrate exactly how the model's outputs contribute to a more informed decision-making process or a more efficient operational workflow.
+
+Critical Evaluation & Error Analysis:
+Maintain professional objectivity by addressing the limitations of your solution. Discuss unexpected outcomes, potential sources of bias, or specific scenarios where the model's performance degraded. Analyze the "residuals" of your project-what remains unexplained, and what are the technical or data-driven reasons for these gaps?
+Evidence-Based Reasoning:
+Ensure this discussion remains rigorously analytical. Every claim regarding the project's success or utility must be supported by the empirical evidence presented in your Evaluation Results. Avoid drawing anecdotal conclusions; focus instead on the documented relationship among your data, methodology, and outcomes.
+
+Actionable Strategic Recommendations:
+Translate your technical findings into clear, non-technical directives for your stakeholders. What specific actions should be taken based on your data? Provide a prioritized list of recommendations-such as process optimizations, policy shifts, or resource reallocations-that are directly supported by your empirical evidence.
+
+Conclusion & Future Work
+
+The Conclusion provides a final synthesis of your project's impact, achievements, and technical trajectory. It is your opportunity to tie all previous sections together into a cohesive statement of success. Beyond a simple summary, this section should reflect on the journey-acknowledging both what was accomplished and what remains to be explored.
+
+Structure this final section to include the following:
+
+Synthesis of the Data Science Solution:
+Provide a high-level restatement of the core problem and how your specific approach successfully addressed it. Reiterate the innovation or uniqueness of your methodology, emphasizing how your work provided a new perspective or tool for your stakeholders.
+
+Reflection on Outcomes & Goals:
+Explicitly reflect on the project's original objectives. Compare your final results against the Success Criteria established in your Problem Definition. Briefly summarize the most significant findings and contributions, ensuring the reader understands the project's ultimate impact.
+
+Key Lessons Learned:
+Share the critical insights gained during the project lifecycle. These can be technical (e.g., discoveries about data quality or algorithmic behavior) or professional (e.g., insights into stakeholder communication or project management). This demonstrates personal and professional growth as a data practitioner.
+
+Critical Limitations:
+Address the boundaries of your current solution. Discuss any unresolved challenges, data constraints, or technical limitations that may have impacted your final results. Being transparent about these factors strengthens the credibility of your findings.
+
+Future Scope & Extensions:
+Propose the logical "next steps" for this project. Identify 2-3 specific areas where future work could build upon your current results. These might include integrating additional data streams, exploring more complex architectures, or scaling your solution for a broader audience.
+References
+
+List all academic, technical, and data sources used. Use a consistent citation style (preferably APA). Ensure every in-text citation corresponds to a source in the list.
+
+Technical Appendix
+
+The Appendix contains supplementary material that is too detailed for the main body but essential for full transparency and reproducibility. Label each item clearly so readers can navigate easily.
+
+Code Repository Link: Provide a link to the version-controlled repository (e.g., GitHub or GitLab) containing the final, documented source code, requirements files, and a README.
+
+Extended Data Dictionary: If your project utilized a large number of variables, include the full metadata schema and descriptions here.
+
+Supplementary Visualizations: Include secondary charts, such as exhaustive correlation matrices or detailed residual plots, that support your findings but were omitted from the main report for brevity.
+
+Model Architectures: Provide detailed tables of final hyperparameters, layer configurations (for deep learning), or cluster centroids.
+
+Hardware/Environment Specs: Detail the computational resources used (e.g., specific cloud instances, GPU/CPU specs, and environment versions) to ensure technical reproducibility.
+
+Report Formatting Requirements
+
+Each section should feature clear headings, professional writing, and supporting visuals. Maintain logical flow between methodology, results, and implications.
+
+Title page
+The title page should contain the following: course name, project name, team name, list of team members, department and university name, and date of submission.
+
+Project Title: A descriptive and professional title that reflects the specific problem solved. Use 18-point Boldface.
+
+Team Identification: List the full names of all contributing team members. Use 14-point Type.
+
+Typography & Spacing:
+Except for the Title Page, all body text must be formatted in 12-point Times New Roman. Use single-line spacing within paragraphs and a full line break between paragraphs to ensure a clear visual break between ideas.
+
+Heading Hierarchy:
+Maintain a clear structural hierarchy using the following standards:
+Level 1 Headings (Major Sections): Use 14-point Boldface. See the example below:
+
+Introduction
+
+Level 2 Headings (Sub-sections): Use 12-point Boldface. See the example below:
+
+Problem Statement
+
+Visual & Technical Standards:
+
+Margins & Alignment: Maintain standard 1-inch margins and left-align or justify text.
+
+Pagination: Include page numbers in the footer, starting immediately after the Title Page.
+
+Visual Elements: All figures, tables, and charts must be numbered (e.g., Figure 1) and accompanied by descriptive captions that reference the main text.
+
+Submission Format: Reports must be submitted as a single Microsoft Word or PDF document to preserve all formatting, formulas, and visual layouts.
+
+
+Note: The submission for this deliverable should be a Microsoft Word or PDF document. The content should be appropriately scoped for the team's size, clearly written, and well-organized. All sections listed above must be included in the submission. Use the guidance provided to structure your work, but avoid a question-and-answer format; present discussions as cohesive narratives.
+
+Ensure consistent font sizes, clear headings, and proper citation of any external data sources. Where relevant, use precise, active language (e.g., "The team shall provide..." rather than "We might try to...").
+
+Assessment Points
+
+Assessment ItemsIndividual Contribution PointsTeam Contribution PointsExecutive Summary55Introduction55Background & Research55Problem Definition55The Lifecycle Process55Technical Stack & AI Integration55Data Source Inventory & Validation55Strategic Variable Analysis55Data Scrubbing & Preprocessing55Exploratory Data Analysis (EDA) & Discovery55Modeling & Algorithmic Strategy55Evaluation & Performance Analysis55Discussion of Findings & Strategic Alignment55Conclusion & Future Work55Overall Strategy for the Data Science Solution55Sub-total7575Total150
+
+
+

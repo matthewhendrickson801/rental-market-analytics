@@ -1,0 +1,8 @@
+Parameter,Value
+colsample_bytree,0.7
+gamma,0.1
+learning_rate,0.03
+max_depth,5.0
+min_child_weight,3.0
+n_estimators,500.0
+subsample,0.8

@@ -1,0 +1,159 @@
+CAP 4922 – Data Science Capstone Project
+
+Deliverable 3 – Exploratory Data Analysis
+
+Due date: March 11
+
+The deliverable 3 submission should include the following items:
+
+Team name:
+
+Team members: 
+
+Project title: 
+The title should be brief but descriptive of the problem domain and data science solution.
+
+Team Project Overview Context:
+Provide a brief overview of the project goals and purpose. The discussion should provide enough detail to understand why certain variables are being prioritized in the analysis that follows.
+
+The following sections must be completed for each team member:
+
+Dataset Summaries & Descriptive Statistics
+Establish the “shape” and “scope” of your data to define the boundaries of your analysis.
+
+Metadata Summary: 
+List each data source used. For each data source, report the total number of observations (rows) and features (columns). If you are merging multiple tables, provide the dimensions for each and the resulting dataset. 
+
+Define “Unit of Analysis” of the data (e.g., is one row a customer, a transaction, or a timestamp?). Clearly define what a single row represents. Is it a single customer (static), a single transaction (event-based), or a specific sensor reading at a specific millisecond (time-series)?
+
+What are the start and end dates of this data? Are there gaps in the timeline? Does this data cover a specific region, country, or demographic?
+
+Feature Characterization: 
+Provide a high-level grouping of your columns. For example:
+Demographic features: Age, Gender, Income.
+Behavioral features: last purchase date, login frequency.
+Target Variable: The specific column you are trying to predict or explain.
+
+Categorize variables into Numerical (Continuous/Discrete) and Categorical (Nominal/Ordinal).
+
+Statistical Table: 
+Highlight variables with high variance or significant skewness that might require normalization later.
+
+For continuous data, report the Mean, Median, Standard Deviation, and Interquartile Range (IQR). Compare the Mean and Median. If they differ significantly, explain what this suggests about the skewness of your data distribution.
+
+For your non-numeric data, report the number of Unique Values (Cardinality). Identify high-cardinality features (like “User ID” or “Street Address”) that may need to be dropped or encoded differently for modeling.
+
+Identify “sparse” features, i.e., variables where the majority of entries are zero or empty, as these can significantly impact the performance of certain algorithms.
+
+Visual Analysis
+Utilize visual representations to uncover the “hidden” structures of the data, such as skewness, multi-modality, non-linear correlations, and seasonal cycles, that summary statistics alone often mask.
+
+Univariate Analysis: 
+Create distributions for your Target Variable and key predictors. Use histograms for shape and box plots to identify the interquartile range (IQR).
+
+For continuous variables, use Histograms to assess normality, bimodality (two peaks), and skewness. If a feature is highly skewed, discuss whether a transformation or scaling is necessary for modeling.
+
+Utilize Box Plots to visualize the “five-number summary,” which includes minimum, first quartile, median, third quartile, and maximum. This visualization is the primary method for visually flagging outliers and understanding the concentration of data within the Interquartile Range (IQR).
+
+Use Count Plots to identify class imbalances. If a target class is severely under-represented (e.g., 95% "No" and 5% "Yes"), explicitly discuss how this will affect their choice of evaluation metrics.
+
+Bivariate & Multivariate Analysis:
+How do your predictors correlate with what you are trying to predict? (e.g., Use grouped bar charts for categorical-target relationships).
+
+Generate a Correlation Heatmap for all numerical variables. Highlight “redundant” features. These features may cause instability in linear models and may need to be removed or combined via Principal Component Analysis (PCA).
+
+Use Scatter Plots to look for linear or non-linear relationships. If a scatter plot shows a “fan” shape (heteroscedasticity), it must be documented as it violates certain model assumptions.
+
+For categorical vs. continuous variables, use Grouped Box Plots to visualize how the distribution of a numerical variable changes across categories.
+
+For time-series data, use Line Charts to identify upward or downward trends and repeating seasonal cycles. Visually check for “volatility clustering” or changes in the mean over time. If the mean changes over time, hypothesize the need for “differencing” or time-based cross-validation.
+
+Every chart must have a title, axis labels (with units), and a brief caption explaining the “so what?”, what is the specific takeaway from this visual? Visuals are useless without interpretation. For every major plot, include a brief “Key Takeaway” paragraph that answers:
+What pattern is visible here? (e.g., “There is a clear positive linear trend.”)
+What does this mean for the project? (e.g., “This variable is likely a strong predictor.”)
+What model-ready action does this trigger? (e.g., “I will apply a z-score scaling to this feature due to its wide range.”)
+
+Data Quality Audit
+Conduct a rigorous diagnostic of the dataset to identify anomalies, missingness, and structural errors that could compromise the validity of your predictive models or statistical inferences.
+
+Missing Value Analysis: 
+Don’t just list counts. Provide a table or bar chart showing the percentage of missing values per column. Use visualizations to determine the type of missingness. Is the data missing at random, or are certain features missing together?
+
+Outlier Detection: 
+Identify data points that deviate so significantly from other observations that they arouse suspicions. Use Z-scores or the IQR method to flag outliers. Justify why a data point is considered an outlier.
+
+Consistency Checks: 
+Look for “Hidden” duplicates (e.g., “New York” vs “ny”) and data type mismatches (e.g., dates stored as strings). For every major quality issue identified, provide a brief statement on the risk to the project.
+
+Data Cleaning & Preprocessing
+Systematically address the flaws identified in the Data Quality Audit and transform the raw features into a format that satisfies the mathematical assumptions of data science algorithms.
+
+Imputation Strategy: 
+Explain your logic for handling gaps. Did you drop rows, use the mean/median, or use a more advanced method like KNN imputation?
+
+Justify the “how” and “why” of their approach to handling empty values to prevent data leakage or bias. If rows or columns were dropped, provide a quantitative justification. Describe the logic for filling gaps. Discuss whether Mean/Median (for continuous) or Mode (for categorical), or Iterative Imputation or KNN (where values are guessed based on “similar” rows).
+
+Explain if missingness itself was treated as a feature (e.g., creating a “Missing_Indicator” flag to capture the signal that the data was never recorded).
+
+Structural Cleaning: 
+Document any filtering (e.g., “Removed records from before 2020”), merging of datasets, or handling of duplicates.
+
+Confirm the removal of redundant records. If duplicates were kept, explain the rationale. 
+ 
+Document the use of regex or mapping to fix inconsistencies found in the Audit (e.g., stripping whitespace, converting to lowercase, or merging similar terms, such as “NYC” and “New York City”).
+
+Finalize the casting of variables (e.g., “Converting ‘Purchase_Date’ from a string to a datetime object to enable time-based feature extraction”).
+
+Initial Feature Engineering: 
+Document the “value-add” steps that make the data more interpretable for a machine learning model. If you created new variables, explain why this new feature adds value to the problem.
+
+For encoding categorical variables, describe the method used to turn text into numbers: One-Hot Encoding for nominal data (e.g., Red, Blue, Green) and Ordinal Encoding for data with a clear rank (e.g., Low, Medium, High).
+
+For derived features, list any new variables created from existing ones (e.g., subtracting “Birth_Date” from “Current_Date” to create an “Age” feature).
+
+For scaling & normalization, discuss if features were shifted to a common scale (e.g., 0 to 1) using Min-Max Scaling or Standardization (Z-score) to ensure no single variable dominates the model purely due to its magnitude.
+
+Key Insights & Hypotheses
+Synthesize the patterns, anomalies, and relationships discovered during exploration into a coherent narrative that dictates your modeling strategy and defines your expectations for project success.
+
+Synthesis of Findings: 
+Summarize 3 to 5 “Key Discoveries.” Identify which 3 to 5 variables showed the strongest correlation or visual relationship with the target variable. Why do these matter? Discuss any “hidden” subgroups found in the data. 
+
+Document “non-findings.” If a variable you expected to be important showed no relationship with the target, discuss the implications. Does the data lack signal, or is the relationship potentially non-linear?
+
+Problem Context: 
+After looking at the data, the initial project goal often needs refinement. Discuss how your findings change your understanding of the initial problem. Is the data sufficient to answer your research question?
+
+Based on the data quality and signals found, is the original problem solvable? Are there “data gaps” that might limit the accuracy of the final model? Should the project focus be narrowed or broadened?
+
+Hypothesis Formulation: 
+State testable hypotheses that will be the “targets” for their machine learning models. A minimum of three hypotheses must be stated, but more than three is anticipated. A good hypothesis follows the If/Then/Because structure:
+
+Example: “We hypothesize that ‘Feature X’ will be the strongest predictor of ‘Target Y’ because of the linear relationship observed in the scatter plots.”
+
+Example: “If we implement a Random Forest model, then it will outperform a Linear Regression because the relationship between ‘User Tenure’ and ‘Churn’ was shown to be non-linear in our scatter plots.”
+
+Example: “If we include engineered features for ‘Weekend vs. Weekday’ activity, then the model’s precision will increase because the EDA showed distinct behavioral spikes on Saturdays.”
+
+Modeling Strategy & Technical Roadmap
+This discussion serves as the “bridge” to the next deliverable. Provide a brief outline of a technical data science analysis plan based on the EDA.
+
+Based on the distributions (e.g., normality vs. skewness) and relationships (e.g., linear vs. complex), which models are you prioritizing? 
+
+If the EDA revealed an imbalanced target, what is the plan? (e.g., “We will use SMOTE oversampling or adjust the class weights during training”).
+
+Explicitly state which evaluation metric (RMSE, F1-Score, AUC-ROC, etc.) you will prioritize and why it is the right choice given the data's distribution and the business problem.
+
+Finalize the roadmap by identifying “Red Flags”: features that might “give away” the answer too easily, recorded after the target event occurs. Discuss if the data contains biases (racial, gender, geographic) that might lead to an unethical or skewed model, and how you plan to monitor this.
+
+
+Note: The submission for this deliverable should be a Microsoft Word or PDF document. The content should be appropriately scoped for the team's size, clearly written, and well-organized. All sections listed above must be included in the submission. Use the guidance provided to structure your work, but avoid a question-and-answer format; present discussions as cohesive narratives.
+
+Ensure consistent font sizes, clear headings, and proper citation of any external data sources. Where relevant, use precise, active language (e.g., “The team shall provide…” rather than “We might try to…”).
+
+Assessment Points
+
+
+
+
+

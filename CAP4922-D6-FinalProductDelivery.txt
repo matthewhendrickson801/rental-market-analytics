@@ -1,0 +1,53 @@
+CAP 4922 - Data Science Capstone Project
+
+Deliverable 6 - Final Product Delivery
+
+Due date: April 29
+
+The deliverable 6 submission should include the following items:
+
+Team name:
+
+Team members: 
+
+Project title: 
+The title should be brief but descriptive of the problem domain and data science solution.
+
+The Final Product Delivery represents the technical "hand-off" of your data science solution. This submission must be a self-contained, professional-grade package that allows a third-party stakeholder or peer engineer to reproduce, deploy, and utilize your work without external assistance. High-quality documentation and clean code architecture are mandatory. 
+
+Your submission must include the following components:
+
+Comprehensive README File:
+The README is the "front door" to your project. It must provide a high-level summary of the solution, a clear directory structure map, and a quick-start guide. Explicitly list all technical dependencies (e.g., a requirements.txt or environment.yml file) and specify the precise versions of the tools used.
+
+Source Code & Logic Files:
+Provide the complete, documented source code for your solution. These files include scripts for data acquisition, preprocessing pipelines, model architectures, and final analysis. Ensure all code follows standard linting and naming conventions, and is modular enough for future expansion.
+
+Interactive Dashboard & UI Files:
+If your solution includes a front-end component (e.g., Tableau, Power BI, Streamlit, or Plotly Dash), include all necessary configuration files, exported workbooks, or application scripts. If the dashboard is hosted, provide a permanent, accessible URL.
+
+Structured Data Assets:
+Include all datasets required to run the solution. If the data scale exceeds submission limits, provide a documented script for automated retrieval (e.g., an API pull) or a persistent link to a secure cloud storage bucket. All data must be organized in a logical directory (e.g., /data/raw vs. /data/processed).
+
+
+
+Operational Instructions (The Execution Guide):
+Detail the exact sequence of commands required to execute the code from a clean environment. Include environment setup instructions, data ingestion steps, and the specific order in which scripts must be run to generate the final outputs.
+
+User Tutorial & Solution Walkthrough:
+Provide a concise, step-by-step guide (in PDF or Markdown format) for a non-technical user. This tutorial should explain how to interact with the final product, interpret the dashboard visualizations, and understand the practical utility of the results.
+
+Cloud Infrastructure & Deployment Details:
+If your solution utilizes cloud resources (e.g., AWS, Azure, Google Cloud), document the specific services employed (S3 buckets, EC2 instances, SageMaker endpoints, etc.). Include a brief architecture diagram or summary of the cloud workflow, along with any necessary configuration parameters for hosting.
+
+
+Note: The submission for this deliverable should be a Microsoft Word or PDF document. The content should be appropriately scoped for the team's size, clearly written, and well-organized. All sections listed above must be included in the submission. Use the guidance provided to structure your work, but avoid a question-and-answer format; present discussions as cohesive narratives.
+
+Ensure consistent font sizes, clear headings, and proper citation of any external data sources. Where relevant, use precise, active language (e.g., "The team shall provide..." rather than "We might try to...").
+
+Assessment Points
+
+Assessment ItemsIndividual Contribution PointsTeam Contribution PointsREADME File55Source Code & Logic Files1010Dashboard & UI Files1010Data Assests1010Operational Instructions55Tutorial & Solution Walkthrough55Cloud & Deployment Details55Sub-total5050Total100
+
+
+

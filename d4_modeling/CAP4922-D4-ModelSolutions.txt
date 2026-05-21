@@ -1,0 +1,88 @@
+﻿CAP 4922 - Data Science Capstone Project
+
+Deliverable 4 - Model Selection and Solution Approaches
+
+Due date: April 1
+
+The deliverable 4 submission should include the following items:
+
+Team name:
+	
+Team members: 
+
+Project title: 
+The title should be brief but descriptive of the problem domain and data science solution.
+
+Team Project Overview Context:
+Provide a brief overview of the project goals and purpose. The discussion should provide enough detail to understand why certain variables are being prioritized in the analysis that follows.
+
+The deliverable document should discuss comprehensive machine learning models utilized to address the project problem. The deliverable should clearly explain the modeling decisions, data preparation steps, and evaluation strategy used to ensure robust and reliable results.
+
+The following sections must be completed for each team member:
+
+Justification for Machine Learning Models
+Discuss machine learning models that were utilized for analyzing data and identifying insights. Explain why a particular machine learning model was chosen over others. Justify the complexity of the selected model, considering the "Occam's Razor" principle (choosing the simplest model that provides sufficient accuracy). 
+
+Provide a clear rationale for the chosen machine learning models. Discussion should include:
+* Why the selected models are appropriate for the problem type (e.g., classification, regression, clustering).
+* Consideration of model complexity, interpretability, and scalability.
+* Why does this model handle your specific data challenges? Discuss assumptions of the chosen models (e.g., Normality, Homoscedasticity, or Independence) and state whether data meet them or how the model handles violations.
+* Comparison with alternative models that were considered but not selected, and why they were rejected (e.g., slow training time, overfitting risk).
+* Address the "cost" of the model. Is the training time or memory usage justified by the incremental gain in performance over a simpler model? Discuss the trade-off between Training Time vs. Prediction Latency. For a real-time application, a slightly less accurate but faster model might be the superior choice.
+* Explain why a "simple" model (like Logistic Regression) was insufficient for the problem's complexity.
+
+Input Variables and Feature Selection
+This section requires a deep dive into the "ingredients" used in the modeling process. 
+
+Describe the variables used as inputs to the model:
+* List and define key features used in training. Why were these specific variables chosen? Discussion should link these back to Exploratory Data Analysis (EDA) discussions in Deliverable 3.
+* Explicitly state how variables were handled. Explain any feature engineering or transformation steps (e.g., normalization, encoding categorical variables).
+* Justify why these features are relevant to the prediction task.
+* Address any feature selection techniques used (e.g., correlation analysis, feature importance, dimensionality reduction).
+* Mention if any automated selection (like Recursive Feature Elimination), dimension reduction (Principal Component Analysis), or domain-knowledge-driven pruning was used to remove noise or redundant features.
+
+Training and Validation Set Details
+This section is about the integrity of the experiment. Discussions must prove that modeling results aren't a fluke of "cherry-picked" data.
+
+Explain how the dataset was split and used:
+* Define training, validation, and (if applicable) test sets.
+* Specify the split ratio (e.g., 70/15/15 or 80/20). Discussion should expand beyond the percentage (e.g., 80/20). How was it split? Was it a Stratified Split to maintain class balance? If it's time-series data, discuss whether or not a Time-Based Split was utilized to avoid looking into the "future"?
+* Describe whether cross-validation (e.g., k-fold) was used and why. Describe the choice of k (usually 5 or 10), and whether any nested cross-validation was used for hyperparameter tuning. Discussion should explain whether the folds were stratified to ensure each fold is a representative subset of the whole dataset.
+* Discuss how overfitting was mitigated (e.g., regularization, early stopping).
+* If the dataset is skewed or classes are imbalanced (e.g., 1% Success, 99% Failure), describe whether techniques like SMOTE (Synthetic Minority Over-sampling Technique) or Undersampling were applied, and specifically when they were applied (it should only be applied to the training set, never the validation set).
+
+Evaluation Metrics for Performance Assessment
+Discussion in this section should go beyond "Accuracy" and demonstrate an understanding of the consequences of model errors. Explain why the selected metrics are appropriate for the problem context. For example, in imbalanced classification problems, recall or F1-score may be prioritized, while in clustering tasks, the silhouette score can help assess how well-separated and cohesive the clusters are.
+
+Identify and justify the metrics used to evaluate model performance:
+* Provide a confusion matrix analysis containing a breakdown of Type I (False Positives) and Type II (False Negatives) errors.
+* Describe the variable designated as the primary metric that defines success for the problem.
+* Discuss whether any threshold value is chosen for evaluation purposes. At what probability (0.5? 0.7?) does the model decide a "Positive" result, and why was that threshold chosen?
+* For classification: accuracy, precision, recall, F1-score, ROC-AUC.
+* For regression: mean squared error (MSE), root mean squared error (RMSE), R2.
+* For clustering: silhouette score, Davies-Bouldin index, Calinski-Harabasz index, and (if ground truth labels are available) adjusted Rand index (ARI) or normalized mutual information (NMI).
+* Provide a comparison of training performance vs. validation performance. A 99% training score and a 70% validation score must be considered a failure of generalization.
+* Discuss where the model failed. Are there specific subsets of data where the model is consistently wrong?
+
+Overall Strategy for the Data Science Solution
+This section should discuss the "big picture" synthesis for the final data science solution. The discussion should shift from a single model to a holistic solution. Discuss the end-to-end approach taken to develop the solution, focusing on how successful models will be translated into a usable data product for stakeholders. Describe the strategy for turning the best-performing models into a usable data science solution for stakeholders. The actual, fully implemented solution details will be submitted during Deliverable 5.
+
+The discussion for this section should include:
+* Identify the best-performing models based on the evaluation metrics from this phase and briefly justify why these models are the most suitable candidates for deployment. Discussion should not be limited to the highest score. Discussion should explain the Winning Model based on a combination of performance, stability across folds, and ease of maintenance.
+* Describe the planned data product or interface that stakeholders will eventually use (for example, an interactive dashboard, web application, or reporting workflow), focusing on how model outputs will support decision-making or problem-solving.
+* Outline the proposed system workflow from data input to model inference to user-facing outputs, including how users are expected to interact with the future solution (e.g., filters, data uploads, visualizations, alerts).
+* Discuss planned considerations for usability, interpretability, and communication of results, such as how complex model outputs will be translated into clear KPIs, visual summaries, or recommendations for non-technical users.
+* Identify anticipated challenges and limitations (technical, data-related, or organizational) and propose ideas for future enhancements that could be implemented in Deliverable 5 or beyond.
+* Describe how this data science solution would actually solve the problem?
+* Briefly touch upon how this solution would be updated. How often should the model be retrained as new data comes in?
+
+Note: The submission for this deliverable should be a Microsoft Word or PDF document. The content should be appropriately scoped for the team's size, clearly written, and well-organized. All sections listed above must be included in the submission. Use the guidance provided to structure your work, but avoid a question-and-answer format; present discussions as cohesive narratives.
+
+Ensure consistent font sizes, clear headings, and proper citation of any external data sources. Where relevant, use precise, active language (e.g., "The team shall provide..." rather than "We might try to...").
+
+Assessment Points
+
+Assessment ItemsIndividual Contribution PointsTeam Contribution PointsProject Overview5Justification for Machine Learning Models1010Input Variables and Feature Selection1010Training and Validation Set Details1010Evaluation Metrics for Performance Assessment1010Overall Strategy for the Data Science Solution105Sub-total5050Total100
+
+
+

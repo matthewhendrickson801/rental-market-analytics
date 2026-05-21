@@ -1,0 +1,45 @@
+feature,importance
+is_coastal,0.19584623
+education_high_school,0.15450004
+beach_proximity,0.14850259
+education_bachelors_plus,0.07481209
+Median Household Income (2020-2024),0.07288596
+Home Owner Excessive Housing Costs (2020-2024),0.02410011
+Commute Transportation by Public Transit (2020-2024),0.02151521
+Housing Built 1939 or Earlier (2020-2024),0.019654224
+education_income_ratio,0.01824151
+Income 200% and Over the Poverty Level (2020-2024),0.01452623
+Percent Change in Population (Difference Decennial Census 2020 - 2010),0.014136241
+luxury_mix_indicator,0.013147148
+Total Population (2020-2024),0.01303667
+Renter Excessive Housing Costs (2020-2024),0.012711075
+Per Capita Income (2020-2024),0.012234617
+Commute Mean Travel Time (2020-2024),0.012084167
+Labor Force Participation Rate (2020-2024),0.011458152
+Housing Built 1940 to 1949 (2020-2024),0.010994669
+Income 125% to 149% the Poverty Level (2020-2024),0.0077926074
+education_less_than_hs,0.007530999
+Housing Built 2010 to 2019 (2020-2024),0.007487191
+Income 185% to 199% the Poverty Level (2020-2024),0.007085263
+Unemployment Rate (2020-2024),0.007019842
+Total Housing Units (2020-2024),0.0069522033
+jobs_per_capita,0.006950686
+Income 50% to 99% the Poverty Level (2020-2024),0.006939463
+Income 100% to 124% the Poverty Level (2020-2024),0.006812187
+Housing Built 1960 to 1969 (2020-2024),0.006554954
+No Vehicles Available (2020-2024),0.006540645
+Housing Built 2000 to 2009 (2020-2024),0.006502245
+Housing Built 2020 or Later (2020-2024),0.006480734
+owner_renter_cost_ratio,0.00609047
+Income 150% to 184% the Poverty Level (2020-2024),0.005912536
+Homeowner Vacancy Rate (2020-2024),0.005877211
+education_some_college,0.005623852
+Housing Built 1950 to 1959 (2020-2024),0.005588001
+is_suburban,0.005546683
+Housing Built 1990 to 1999 (2020-2024),0.0053987685
+Housing Built 1980 to 1989 (2020-2024),0.005231028
+Income 49% and Below Poverty Level (2020-2024),0.0052119177
+Housing Built 1970 to 1979 (2020-2024),0.0048853634
+is_urban,0.0048788814
+Rental Vacancy Rate (2020-2024),0.004719354
+is_rural,0.0

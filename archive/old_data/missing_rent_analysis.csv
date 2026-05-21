@@ -1,0 +1,311 @@
+city,geoid,Total Population (2020-2024),Total Housing Units (2020-2024),Rental Vacancy Rate (2020-2024),Median Household Income (2020-2024),likely_reason,confidence
+Austin,76530,2598,1059,13.008130081300814,106250.0,Insufficient rental market data - possibly owner-dominated area,Low
+Austin,76573,0,0,0.0,,Very low population - likely industrial/commercial area; Very few housing units - likely commercial/industrial zone,High
+Austin,78615,1637,586,0.0,80938.0,Insufficient rental market data - possibly owner-dominated area,Low
+Austin,78622,331,162,0.0,,Low population - possibly rural or special use area; Limited housing - possibly mixed-use or institutional area,High
+Austin,78632,1245,655,0.0,62500.0,Insufficient rental market data - possibly owner-dominated area,Low
+Austin,78659,2660,1344,0.0,89808.0,Insufficient rental market data - possibly owner-dominated area,Low
+Austin,78661,835,241,28.57142857142857,82896.0,High rental vacancy - economic distress or redevelopment,Medium
+Austin,78662,3015,1454,0.0,94005.0,Insufficient rental market data - possibly owner-dominated area,Low
+Austin,78674,108,44,100.0,,Low population - possibly rural or special use area; Very few housing units - likely commercial/industrial zone; Extremely high rental vacancy - area in transition or special circumstances,High
+Austin,78712,201,0,0.0,,Low population - possibly rural or special use area; Very few housing units - likely commercial/industrial zone,High
+Austin,78953,1089,640,0.0,83438.0,Insufficient rental market data - possibly owner-dominated area,Low
+Charlotte,28006,1518,625,0.0,51932.0,Insufficient rental market data - possibly owner-dominated area,Low
+Charlotte,28039,39,28,0.0,,Very low population - likely industrial/commercial area; Very few housing units - likely commercial/industrial zone,High
+Charlotte,28041,3,3,0.0,,Very low population - likely industrial/commercial area; Very few housing units - likely commercial/industrial zone,High
+Charlotte,28088,3054,1424,0.0,59872.0,Insufficient rental market data - possibly owner-dominated area,Low
+Charlotte,28102,164,49,0.0,,Low population - possibly rural or special use area; Very few housing units - likely commercial/industrial zone,High
+Charlotte,28108,34,39,0.0,,Very low population - likely industrial/commercial area; Very few housing units - likely commercial/industrial zone; Low occupancy rate - possible vacation homes or investment properties,High
+Charlotte,28223,4953,9,100.0,,Very few housing units - likely commercial/industrial zone; Extremely high rental vacancy - area in transition or special circumstances; High occupancy - possible group housing or institutional,High
+Charlotte,28244,0,0,0.0,,Very low population - likely industrial/commercial area; Very few housing units - likely commercial/industrial zone,High
+Charlotte,28274,747,0,0.0,,Very few housing units - likely commercial/industrial zone,High
+Charlotte,28280,0,0,0.0,,Very low population - likely industrial/commercial area; Very few housing units - likely commercial/industrial zone,High
+Charlotte,28282,0,0,0.0,,Very low population - likely industrial/commercial area; Very few housing units - likely commercial/industrial zone,High
+Charlotte,29014,1595,795,0.0,62422.0,Insufficient rental market data - possibly owner-dominated area,Low
+Charlotte,29704,3060,1348,0.0,74303.0,Insufficient rental market data - possibly owner-dominated area,Low
+Charlotte,29712,2047,973,0.0,62656.0,Insufficient rental market data - possibly owner-dominated area,Low
+Charlotte,29724,0,0,0.0,,Very low population - likely industrial/commercial area; Very few housing units - likely commercial/industrial zone,High
+Charlotte,29733,1468,0,0.0,,Very few housing units - likely commercial/industrial zone,High
+Columbus,43002,1205,577,0.0,102153.0,Insufficient rental market data - possibly owner-dominated area,Low
+Columbus,43007,63,45,0.0,,Very low population - likely industrial/commercial area; Very few housing units - likely commercial/industrial zone,High
+Columbus,43018,286,194,0.0,110481.0,Low population - possibly rural or special use area; Limited housing - possibly mixed-use or institutional area,High
+Columbus,43027,185,61,0.0,,Low population - possibly rural or special use area; Limited housing - possibly mixed-use or institutional area,High
+Columbus,43029,544,186,0.0,107744.0,Limited housing - possibly mixed-use or institutional area,Medium
+Columbus,43030,249,101,0.0,213021.0,Low population - possibly rural or special use area; Limited housing - possibly mixed-use or institutional area; High income area - possible luxury/custom housing market,High
+Columbus,43032,0,0,0.0,,Very low population - likely industrial/commercial area; Very few housing units - likely commercial/industrial zone,High
+Columbus,43066,1368,568,0.0,129012.0,Insufficient rental market data - possibly owner-dominated area,Low
+Columbus,43117,7,7,0.0,,Very low population - likely industrial/commercial area; Very few housing units - likely commercial/industrial zone,High
+Columbus,43127,257,140,0.0,67500.0,Low population - possibly rural or special use area; Limited housing - possibly mixed-use or institutional area,High
+Columbus,43137,2415,1146,0.0,49145.0,Insufficient rental market data - possibly owner-dominated area,Low
+Columbus,43152,941,401,0.0,,Insufficient rental market data - possibly owner-dominated area,Low
+Columbus,43210,12164,234,67.08860759493672,34423.0,Extremely high rental vacancy - area in transition or special circumstances; High occupancy - possible group housing or institutional,High
+Columbus,43218,0,0,0.0,,Very low population - likely industrial/commercial area; Very few housing units - likely commercial/industrial zone,High
+Columbus,43325,70,71,0.0,,Very low population - likely industrial/commercial area; Limited housing - possibly mixed-use or institutional area; Low occupancy rate - possible vacation homes or investment properties,High
+Columbus,43340,2103,713,0.0,72446.0,Insufficient rental market data - possibly owner-dominated area,Low
+Columbus,43721,196,57,0.0,,Low population - possibly rural or special use area; Limited housing - possibly mixed-use or institutional area,High
+Columbus,43760,1493,668,9.183673469387756,79783.0,Insufficient rental market data - possibly owner-dominated area,Low
+Columbus,43761,45,31,0.0,,Very low population - likely industrial/commercial area; Very few housing units - likely commercial/industrial zone,High
+Columbus,45622,686,281,0.0,48556.0,Insufficient rental market data - possibly owner-dominated area,Low
+Columbus,45654,746,337,0.0,46111.0,Insufficient rental market data - possibly owner-dominated area,Low
+Denver,80024,33,33,0.0,,Very low population - likely industrial/commercial area; Very few housing units - likely commercial/industrial zone,High
+Denver,80118,5632,2270,8.51063829787234,158155.0,High income area - possible luxury/custom housing market,Medium
+Denver,80131,276,128,0.0,107250.0,Low population - possibly rural or special use area; Limited housing - possibly mixed-use or institutional area,High
+Denver,80137,1689,594,75.0,134890.0,Extremely high rental vacancy - area in transition or special circumstances,High
+Denver,80264,0,0,0.0,,Very low population - likely industrial/commercial area; Very few housing units - likely commercial/industrial zone,High
+Denver,80266,0,0,0.0,,Very low population - likely industrial/commercial area; Very few housing units - likely commercial/industrial zone,High
+Denver,80293,0,0,0.0,,Very low population - likely industrial/commercial area; Very few housing units - likely commercial/industrial zone,High
+Denver,80294,0,0,0.0,,Very low population - likely industrial/commercial area; Very few housing units - likely commercial/industrial zone,High
+Denver,80419,0,0,0.0,,Very low population - likely industrial/commercial area; Very few housing units - likely commercial/industrial zone,High
+Denver,80425,243,173,100.0,82188.0,Low population - possibly rural or special use area; Limited housing - possibly mixed-use or institutional area; Extremely high rental vacancy - area in transition or special circumstances,High
+Denver,80432,293,750,0.0,44605.0,Low population - possibly rural or special use area; Low occupancy rate - possible vacation homes or investment properties,High
+Denver,80436,348,288,0.0,59091.0,Low population - possibly rural or special use area,High
+Denver,80448,0,197,0.0,,Very low population - likely industrial/commercial area; Limited housing - possibly mixed-use or institutional area; Low occupancy rate - possible vacation homes or investment properties,High
+Denver,80449,916,929,0.0,59635.0,Low occupancy rate - possible vacation homes or investment properties,Medium
+Denver,80453,297,161,0.0,,Low population - possibly rural or special use area; Limited housing - possibly mixed-use or institutional area,High
+Denver,80454,986,481,0.0,178980.0,High income area - possible luxury/custom housing market,Medium
+Denver,80456,507,1179,0.0,,Low occupancy rate - possible vacation homes or investment properties,Medium
+Denver,80457,283,143,0.0,235160.0,Low population - possibly rural or special use area; Limited housing - possibly mixed-use or institutional area; High income area - possible luxury/custom housing market,High
+Denver,80474,264,119,0.0,,Low population - possibly rural or special use area; Limited housing - possibly mixed-use or institutional area,High
+Denver,80475,39,63,0.0,,Very low population - likely industrial/commercial area; Limited housing - possibly mixed-use or institutional area; Low occupancy rate - possible vacation homes or investment properties,High
+Denver,80820,427,577,0.0,49375.0,Low population - possibly rural or special use area; Low occupancy rate - possible vacation homes or investment properties,High
+Denver,80827,808,806,0.0,88125.0,Insufficient rental market data - possibly owner-dominated area,Low
+Denver,80830,176,89,12.5,76250.0,Low population - possibly rural or special use area; Limited housing - possibly mixed-use or institutional area,High
+Indianapolis,46045,162,47,0.0,160912.0,Low population - possibly rural or special use area; Very few housing units - likely commercial/industrial zone; High income area - possible luxury/custom housing market,High
+Indianapolis,46047,49,25,0.0,,Very low population - likely industrial/commercial area; Very few housing units - likely commercial/industrial zone,High
+Indianapolis,46110,917,290,0.0,68714.0,Insufficient rental market data - possibly owner-dominated area,Low
+Indianapolis,46117,527,261,0.0,91250.0,Insufficient rental market data - possibly owner-dominated area,Low
+Indianapolis,46125,6,3,0.0,,Very low population - likely industrial/commercial area; Very few housing units - likely commercial/industrial zone,High
+Indianapolis,46144,216,110,0.0,108333.0,Low population - possibly rural or special use area; Limited housing - possibly mixed-use or institutional area,High
+Indianapolis,46154,189,25,0.0,,Low population - possibly rural or special use area; Very few housing units - likely commercial/industrial zone; High occupancy - possible group housing or institutional,High
+Indianapolis,46162,227,93,0.0,117969.0,Low population - possibly rural or special use area; Limited housing - possibly mixed-use or institutional area,High
+Indianapolis,46180,1085,425,0.0,90208.0,Insufficient rental market data - possibly owner-dominated area,Low
+Indianapolis,46183,34,78,0.0,,Very low population - likely industrial/commercial area; Limited housing - possibly mixed-use or institutional area; Low occupancy rate - possible vacation homes or investment properties,High
+Indianapolis,46206,0,0,0.0,,Very low population - likely industrial/commercial area; Very few housing units - likely commercial/industrial zone,High
+Indianapolis,46290,81,57,0.0,,Very low population - likely industrial/commercial area; Limited housing - possibly mixed-use or institutional area,High
+Indianapolis,47234,1617,609,0.0,101708.0,Insufficient rental market data - possibly owner-dominated area,Low
+Indianapolis,47435,137,79,0.0,,Low population - possibly rural or special use area; Limited housing - possibly mixed-use or institutional area,High
+Jacksonville,32072,43,47,100.0,,Very low population - likely industrial/commercial area; Very few housing units - likely commercial/industrial zone; Extremely high rental vacancy - area in transition or special circumstances; Low occupancy rate - possible vacation homes or investment properties,High
+Jacksonville,32081,29784,11028,0.0,131624.0,Insufficient rental market data - possibly owner-dominated area,Low
+Jacksonville,32087,4608,1379,0.0,67097.0,Insufficient rental market data - possibly owner-dominated area,Low
+Jacksonville,32203,0,0,0.0,,Very low population - likely industrial/commercial area; Very few housing units - likely commercial/industrial zone,High
+Jacksonville,32214,0,0,0.0,,Very low population - likely industrial/commercial area; Very few housing units - likely commercial/industrial zone,High
+Jacksonville,32228,222,0,0.0,,Low population - possibly rural or special use area; Very few housing units - likely commercial/industrial zone,High
+Louisville,40003,1807,769,0.0,97681.0,Insufficient rental market data - possibly owner-dominated area,Low
+Louisville,40007,47,70,0.0,64417.0,Very low population - likely industrial/commercial area; Limited housing - possibly mixed-use or institutional area; Low occupancy rate - possible vacation homes or investment properties,High
+Louisville,40010,678,223,0.0,196125.0,High income area - possible luxury/custom housing market,Medium
+Louisville,40012,712,266,0.0,105033.0,Insufficient rental market data - possibly owner-dominated area,Low
+Louisville,40020,199,119,0.0,90712.0,Low population - possibly rural or special use area; Limited housing - possibly mixed-use or institutional area,High
+Louisville,40022,903,357,0.0,98333.0,Insufficient rental market data - possibly owner-dominated area,Low
+Louisville,40025,565,216,0.0,,Insufficient rental market data - possibly owner-dominated area,Low
+Louisville,40036,164,67,0.0,,Low population - possibly rural or special use area; Limited housing - possibly mixed-use or institutional area,High
+Louisville,40041,564,268,14.22222222222222,153214.0,High income area - possible luxury/custom housing market,Medium
+Louisville,40046,1122,546,0.0,66000.0,Insufficient rental market data - possibly owner-dominated area,Low
+Louisville,40052,655,252,0.0,45750.0,Insufficient rental market data - possibly owner-dominated area,Low
+Louisville,40058,37,25,0.0,66635.0,Very low population - likely industrial/commercial area; Very few housing units - likely commercial/industrial zone,High
+Louisville,40104,1143,456,0.0,71111.0,Insufficient rental market data - possibly owner-dominated area,Low
+Louisville,40109,2376,1031,0.0,75495.0,Insufficient rental market data - possibly owner-dominated area,Low
+Louisville,40110,440,147,0.0,46756.0,Low population - possibly rural or special use area; Limited housing - possibly mixed-use or institutional area,High
+Louisville,40142,2253,896,0.0,81037.0,Insufficient rental market data - possibly owner-dominated area,Low
+Louisville,40157,854,346,0.0,58750.0,Insufficient rental market data - possibly owner-dominated area,Low
+Louisville,40161,182,125,0.0,74348.0,Low population - possibly rural or special use area; Limited housing - possibly mixed-use or institutional area,High
+Louisville,40176,898,421,0.0,62422.0,Insufficient rental market data - possibly owner-dominated area,Low
+Louisville,40221,0,0,0.0,,Very low population - likely industrial/commercial area; Very few housing units - likely commercial/industrial zone,High
+Louisville,40231,0,0,0.0,,Very low population - likely industrial/commercial area; Very few housing units - likely commercial/industrial zone,High
+Louisville,40280,182,0,0.0,,Low population - possibly rural or special use area; Very few housing units - likely commercial/industrial zone,High
+Louisville,47104,9,41,0.0,,Very low population - likely industrial/commercial area; Very few housing units - likely commercial/industrial zone; Low occupancy rate - possible vacation homes or investment properties,High
+Louisville,47110,481,283,70.96774193548387,,Low population - possibly rural or special use area; Extremely high rental vacancy - area in transition or special circumstances,High
+Louisville,47135,1257,561,17.1875,48611.0,Insufficient rental market data - possibly owner-dominated area,Low
+Louisville,47163,1335,588,0.0,59837.0,Insufficient rental market data - possibly owner-dominated area,Low
+Louisville,47281,1541,636,0.0,96250.0,Insufficient rental market data - possibly owner-dominated area,Low
+Miami,33022,0,0,0.0,,Very low population - likely industrial/commercial area; Very few housing units - likely commercial/industrial zone,High
+Miami,33039,0,0,0.0,,Very low population - likely industrial/commercial area; Very few housing units - likely commercial/industrial zone,High
+Miami,33101,0,0,0.0,,Very low population - likely industrial/commercial area; Very few housing units - likely commercial/industrial zone,High
+Miami,33109,1083,761,48.78048780487805,,High rental vacancy - economic distress or redevelopment,Medium
+Miami,33149,14791,7310,16.32751937984496,181505.0,High income area - possible luxury/custom housing market,Medium
+Miami,33158,5960,2160,16.666666666666664,201597.0,High income area - possible luxury/custom housing market,Medium
+Miami,33332,10920,3461,5.894736842105263,172730.0,High income area - possible luxury/custom housing market,Medium
+Miami,33388,0,0,0.0,,Very low population - likely industrial/commercial area; Very few housing units - likely commercial/industrial zone,High
+Miami,33473,11825,4732,48.40425531914894,145691.0,High rental vacancy - economic distress or redevelopment,Medium
+Miami,33498,16853,5780,7.987220447284344,146765.0,Insufficient rental market data - possibly owner-dominated area,Low
+Nashville,37010,5435,1899,3.4090909090909087,118179.0,Insufficient rental market data - possibly owner-dominated area,Low
+Nashville,37014,3227,1391,73.33333333333333,105125.0,Extremely high rental vacancy - area in transition or special circumstances,High
+Nashville,37031,3926,1804,0.0,98114.0,Insufficient rental market data - possibly owner-dominated area,Low
+Nashville,37046,7310,2847,15.86021505376344,178228.0,High income area - possible luxury/custom housing market,Medium
+Nashville,37118,1094,480,0.0,74592.0,Insufficient rental market data - possibly owner-dominated area,Low
+Nashville,37132,2704,0,0.0,,Very few housing units - likely commercial/industrial zone,High
+Nashville,37140,1494,166,0.0,62232.0,Limited housing - possibly mixed-use or institutional area; High occupancy - possible group housing or institutional,Medium
+Nashville,37149,2602,1132,0.0,78345.0,Insufficient rental market data - possibly owner-dominated area,Low
+Nashville,37151,457,196,0.0,102168.0,Low population - possibly rural or special use area; Limited housing - possibly mixed-use or institutional area,High
+Nashville,37165,35,31,0.0,36000.0,Very low population - likely industrial/commercial area; Very few housing units - likely commercial/industrial zone,High
+Nashville,37213,25,0,0.0,,Very low population - likely industrial/commercial area; Very few housing units - likely commercial/industrial zone,High
+Nashville,37232,0,0,0.0,,Very low population - likely industrial/commercial area; Very few housing units - likely commercial/industrial zone,High
+Nashville,37238,0,0,0.0,,Very low population - likely industrial/commercial area; Very few housing units - likely commercial/industrial zone,High
+Nashville,38461,1460,632,0.0,66406.0,Insufficient rental market data - possibly owner-dominated area,Low
+Nashville,38476,1228,421,0.0,83654.0,Insufficient rental market data - possibly owner-dominated area,Low
+Nashville,38482,2017,793,0.0,90272.0,Insufficient rental market data - possibly owner-dominated area,Low
+Nashville,38487,746,509,0.0,104458.0,Insufficient rental market data - possibly owner-dominated area,Low
+Nashville,38547,2088,847,0.0,80843.0,Insufficient rental market data - possibly owner-dominated area,Low
+Nashville,38552,472,178,0.0,71250.0,Low population - possibly rural or special use area; Limited housing - possibly mixed-use or institutional area,High
+Nashville,38567,1065,499,0.0,100368.0,Insufficient rental market data - possibly owner-dominated area,Low
+Nashville,38569,390,281,0.0,,Low population - possibly rural or special use area,High
+Orlando,32702,2636,1581,3.5294117647058822,50935.0,Insufficient rental market data - possibly owner-dominated area,Low
+Orlando,32709,1696,689,0.0,73224.0,Insufficient rental market data - possibly owner-dominated area,Low
+Orlando,32732,5275,2068,0.0,119205.0,Insufficient rental market data - possibly owner-dominated area,Low
+Orlando,32768,0,0,0.0,,Very low population - likely industrial/commercial area; Very few housing units - likely commercial/industrial zone,High
+Orlando,32816,12624,0,0.0,,Very few housing units - likely commercial/industrial zone,High
+Orlando,32830,197,101,0.0,,Low population - possibly rural or special use area; Limited housing - possibly mixed-use or institutional area,High
+Orlando,32831,2527,44,0.0,67917.0,Very few housing units - likely commercial/industrial zone; High occupancy - possible group housing or institutional,High
+Orlando,33848,638,415,0.0,74750.0,Insufficient rental market data - possibly owner-dominated area,Low
+Orlando,34729,0,0,0.0,,Very low population - likely industrial/commercial area; Very few housing units - likely commercial/industrial zone,High
+Orlando,34739,1176,668,0.0,101319.0,Insufficient rental market data - possibly owner-dominated area,Low
+Orlando,34760,740,326,0.0,93804.0,Insufficient rental market data - possibly owner-dominated area,Low
+Orlando,34762,1226,924,0.0,,Insufficient rental market data - possibly owner-dominated area,Low
+Orlando,34797,1163,672,60.0,130227.0,Extremely high rental vacancy - area in transition or special circumstances,High
+Philadelphia,8001,854,358,0.0,134583.0,Insufficient rental market data - possibly owner-dominated area,Low
+Philadelphia,8011,56,10,0.0,,Very low population - likely industrial/commercial area; Very few housing units - likely commercial/industrial zone; High occupancy - possible group housing or institutional,High
+Philadelphia,8014,298,106,0.0,,Low population - possibly rural or special use area; Limited housing - possibly mixed-use or institutional area,High
+Philadelphia,8020,2480,1009,0.0,134490.0,Insufficient rental market data - possibly owner-dominated area,Low
+Philadelphia,8022,9172,3595,22.916666666666664,117679.0,High rental vacancy - economic distress or redevelopment,Medium
+Philadelphia,8032,242,83,0.0,198274.0,Low population - possibly rural or special use area; Limited housing - possibly mixed-use or institutional area; High income area - possible luxury/custom housing market,High
+Philadelphia,8038,351,159,0.0,90179.0,Low population - possibly rural or special use area; Limited housing - possibly mixed-use or institutional area,High
+Philadelphia,8039,38,13,0.0,,Very low population - likely industrial/commercial area; Very few housing units - likely commercial/industrial zone,High
+Philadelphia,8041,650,259,60.60606060606061,99688.0,Extremely high rental vacancy - area in transition or special circumstances,High
+Philadelphia,8042,131,106,0.0,170912.0,Low population - possibly rural or special use area; Limited housing - possibly mixed-use or institutional area; High income area - possible luxury/custom housing market,High
+Philadelphia,8056,5434,1760,0.0,171389.0,High income area - possible luxury/custom housing market,Medium
+Philadelphia,8061,4508,1614,0.0,150658.0,High income area - possible luxury/custom housing market,Medium
+Philadelphia,8064,17,9,0.0,,Very low population - likely industrial/commercial area; Very few housing units - likely commercial/industrial zone,High
+Philadelphia,8072,164,79,0.0,68203.0,Low population - possibly rural or special use area; Limited housing - possibly mixed-use or institutional area,High
+Philadelphia,8073,20,16,0.0,,Very low population - likely industrial/commercial area; Very few housing units - likely commercial/industrial zone,High
+Philadelphia,8074,160,76,0.0,,Low population - possibly rural or special use area; Limited housing - possibly mixed-use or institutional area,High
+Philadelphia,8089,4231,1548,0.0,115117.0,Insufficient rental market data - possibly owner-dominated area,Low
+Philadelphia,8090,9815,3276,3.180212014134275,115701.0,Insufficient rental market data - possibly owner-dominated area,Low
+Philadelphia,8095,0,0,0.0,,Very low population - likely industrial/commercial area; Very few housing units - likely commercial/industrial zone,High
+Philadelphia,8224,223,77,0.0,96250.0,Low population - possibly rural or special use area; Limited housing - possibly mixed-use or institutional area,High
+Philadelphia,8328,1476,574,0.0,101583.0,Insufficient rental market data - possibly owner-dominated area,Low
+Philadelphia,18070,223,145,0.0,74638.0,Low population - possibly rural or special use area; Limited housing - possibly mixed-use or institutional area,High
+Philadelphia,18081,85,33,0.0,,Very low population - likely industrial/commercial area; Very few housing units - likely commercial/industrial zone,High
+Philadelphia,18912,213,151,0.0,,Low population - possibly rural or special use area; Limited housing - possibly mixed-use or institutional area,High
+Philadelphia,18913,243,145,0.0,,Low population - possibly rural or special use area; Limited housing - possibly mixed-use or institutional area,High
+Philadelphia,18920,393,156,0.0,152813.0,Low population - possibly rural or special use area; Limited housing - possibly mixed-use or institutional area; High income area - possible luxury/custom housing market,High
+Philadelphia,18921,160,86,0.0,,Low population - possibly rural or special use area; Limited housing - possibly mixed-use or institutional area,High
+Philadelphia,18927,239,135,0.0,,Low population - possibly rural or special use area; Limited housing - possibly mixed-use or institutional area,High
+Philadelphia,18930,1892,876,0.0,127072.0,Insufficient rental market data - possibly owner-dominated area,Low
+Philadelphia,18932,436,150,0.0,,Low population - possibly rural or special use area; Limited housing - possibly mixed-use or institutional area,High
+Philadelphia,18933,105,65,0.0,226083.0,Low population - possibly rural or special use area; Limited housing - possibly mixed-use or institutional area; High income area - possible luxury/custom housing market,High
+Philadelphia,18935,273,104,0.0,113214.0,Low population - possibly rural or special use area; Limited housing - possibly mixed-use or institutional area,High
+Philadelphia,18936,296,91,0.0,,Low population - possibly rural or special use area; Limited housing - possibly mixed-use or institutional area,High
+Philadelphia,18946,689,226,0.0,189333.0,High income area - possible luxury/custom housing market,Medium
+Philadelphia,18950,262,127,0.0,225795.0,Low population - possibly rural or special use area; Limited housing - possibly mixed-use or institutional area; High income area - possible luxury/custom housing market,High
+Philadelphia,18962,531,191,0.0,94536.0,Limited housing - possibly mixed-use or institutional area,Medium
+Philadelphia,18977,4569,1837,0.0,211719.0,High income area - possible luxury/custom housing market,Medium
+Philadelphia,18980,308,92,0.0,145278.0,Low population - possibly rural or special use area; Limited housing - possibly mixed-use or institutional area,High
+Philadelphia,19017,355,137,0.0,166917.0,Low population - possibly rural or special use area; Limited housing - possibly mixed-use or institutional area; High income area - possible luxury/custom housing market,High
+Philadelphia,19035,3937,1379,0.0,,Insufficient rental market data - possibly owner-dominated area,Low
+Philadelphia,19052,631,205,0.0,88831.0,Insufficient rental market data - possibly owner-dominated area,Low
+Philadelphia,19060,11524,4046,0.0,185043.0,High income area - possible luxury/custom housing market,Medium
+Philadelphia,19085,11230,1806,0.0,,High occupancy - possible group housing or institutional,Medium
+Philadelphia,19108,154,78,0.0,193654.0,Low population - possibly rural or special use area; Limited housing - possibly mixed-use or institutional area; High income area - possible luxury/custom housing market,High
+Philadelphia,19109,0,0,0.0,,Very low population - likely industrial/commercial area; Very few housing units - likely commercial/industrial zone,High
+Philadelphia,19112,0,0,0.0,,Very low population - likely industrial/commercial area; Very few housing units - likely commercial/industrial zone,High
+Philadelphia,19113,0,0,0.0,,Very low population - likely industrial/commercial area; Very few housing units - likely commercial/industrial zone,High
+Philadelphia,19316,389,69,0.0,,Low population - possibly rural or special use area; Limited housing - possibly mixed-use or institutional area; High occupancy - possible group housing or institutional,High
+Philadelphia,19319,792,161,0.0,,Limited housing - possibly mixed-use or institutional area; High occupancy - possible group housing or institutional,Medium
+Philadelphia,19345,768,0,0.0,,Very few housing units - likely commercial/industrial zone,High
+Philadelphia,19367,21,3,0.0,,Very low population - likely industrial/commercial area; Very few housing units - likely commercial/industrial zone; High occupancy - possible group housing or institutional,High
+Philadelphia,19369,122,69,0.0,132730.0,Low population - possibly rural or special use area; Limited housing - possibly mixed-use or institutional area,High
+Philadelphia,19373,2357,759,100.0,192708.0,Extremely high rental vacancy - area in transition or special circumstances; High income area - possible luxury/custom housing market,High
+Philadelphia,19375,234,96,0.0,,Low population - possibly rural or special use area; Limited housing - possibly mixed-use or institutional area,High
+Philadelphia,19383,6537,180,0.0,23514.0,Limited housing - possibly mixed-use or institutional area; High occupancy - possible group housing or institutional,Medium
+Philadelphia,19435,75,44,0.0,111667.0,Very low population - likely industrial/commercial area; Very few housing units - likely commercial/industrial zone,High
+Philadelphia,19436,435,309,0.0,77159.0,Low population - possibly rural or special use area,High
+Philadelphia,19437,531,103,0.0,215817.0,Limited housing - possibly mixed-use or institutional area; High occupancy - possible group housing or institutional; High income area - possible luxury/custom housing market,Medium
+Philadelphia,19442,0,0,0.0,,Very low population - likely industrial/commercial area; Very few housing units - likely commercial/industrial zone,High
+Philadelphia,19456,286,124,0.0,205500.0,Low population - possibly rural or special use area; Limited housing - possibly mixed-use or institutional area; High income area - possible luxury/custom housing market,High
+Philadelphia,19457,148,42,0.0,,Low population - possibly rural or special use area; Very few housing units - likely commercial/industrial zone,High
+Philadelphia,19472,54,34,0.0,113056.0,Very low population - likely industrial/commercial area; Very few housing units - likely commercial/industrial zone,High
+Philadelphia,19474,222,114,0.0,,Low population - possibly rural or special use area; Limited housing - possibly mixed-use or institutional area,High
+Philadelphia,19477,136,52,0.0,,Low population - possibly rural or special use area; Limited housing - possibly mixed-use or institutional area,High
+Philadelphia,19490,507,190,0.0,,Limited housing - possibly mixed-use or institutional area,Medium
+Philadelphia,19710,0,0,0.0,,Very low population - likely industrial/commercial area; Very few housing units - likely commercial/industrial zone,High
+Philadelphia,19716,0,0,0.0,,Very low population - likely industrial/commercial area; Very few housing units - likely commercial/industrial zone,High
+Philadelphia,19717,6036,0,0.0,,Very few housing units - likely commercial/industrial zone,High
+Philadelphia,19730,425,170,0.0,112083.0,Low population - possibly rural or special use area; Limited housing - possibly mixed-use or institutional area,High
+Philadelphia,19731,655,235,0.0,71282.0,Insufficient rental market data - possibly owner-dominated area,Low
+Philadelphia,19732,89,54,0.0,236000.0,Very low population - likely industrial/commercial area; Limited housing - possibly mixed-use or institutional area; High income area - possible luxury/custom housing market,High
+Philadelphia,19733,186,87,0.0,82604.0,Low population - possibly rural or special use area; Limited housing - possibly mixed-use or institutional area,High
+Philadelphia,19735,0,0,0.0,,Very low population - likely industrial/commercial area; Very few housing units - likely commercial/industrial zone,High
+Philadelphia,19736,127,39,0.0,,Low population - possibly rural or special use area; Very few housing units - likely commercial/industrial zone,High
+Philadelphia,21902,340,66,0.0,,Low population - possibly rural or special use area; Limited housing - possibly mixed-use or institutional area; High occupancy - possible group housing or institutional,High
+Philadelphia,21917,2233,818,0.0,96750.0,Insufficient rental market data - possibly owner-dominated area,Low
+Philadelphia,21930,25,45,0.0,,Very low population - likely industrial/commercial area; Very few housing units - likely commercial/industrial zone; Low occupancy rate - possible vacation homes or investment properties,High
+SanAntonio,78004,547,175,0.0,165353.0,Limited housing - possibly mixed-use or institutional area; High income area - possible luxury/custom housing market,Medium
+SanAntonio,78008,234,178,0.0,55440.0,Low population - possibly rural or special use area; Limited housing - possibly mixed-use or institutional area,High
+SanAntonio,78011,1757,719,7.142857142857142,29664.0,Insufficient rental market data - possibly owner-dominated area,Low
+SanAntonio,78012,328,165,0.0,43571.0,Low population - possibly rural or special use area; Limited housing - possibly mixed-use or institutional area,High
+SanAntonio,78027,318,180,0.0,111119.0,Low population - possibly rural or special use area; Limited housing - possibly mixed-use or institutional area,High
+SanAntonio,78039,1862,768,8.620689655172415,96250.0,Insufficient rental market data - possibly owner-dominated area,Low
+SanAntonio,78050,529,193,0.0,74205.0,Limited housing - possibly mixed-use or institutional area,Medium
+SanAntonio,78056,2526,1048,0.0,119946.0,Insufficient rental market data - possibly owner-dominated area,Low
+SanAntonio,78057,881,449,0.0,66134.0,Insufficient rental market data - possibly owner-dominated area,Low
+SanAntonio,78062,0,0,0.0,,Very low population - likely industrial/commercial area; Very few housing units - likely commercial/industrial zone,High
+SanAntonio,78066,259,139,0.0,87604.0,Low population - possibly rural or special use area; Limited housing - possibly mixed-use or institutional area,High
+SanAntonio,78074,0,0,0.0,,Very low population - likely industrial/commercial area; Very few housing units - likely commercial/industrial zone,High
+SanAntonio,78123,2127,1064,0.0,97553.0,Insufficient rental market data - possibly owner-dominated area,Low
+SanAntonio,78143,0,14,0.0,,Very low population - likely industrial/commercial area; Very few housing units - likely commercial/industrial zone; Low occupancy rate - possible vacation homes or investment properties,High
+SanAntonio,78150,0,0,0.0,,Very low population - likely industrial/commercial area; Very few housing units - likely commercial/industrial zone,High
+SanAntonio,78161,579,214,0.0,79904.0,Insufficient rental market data - possibly owner-dominated area,Low
+SanAntonio,78243,232,0,0.0,,Low population - possibly rural or special use area; Very few housing units - likely commercial/industrial zone,High
+SanAntonio,78623,1645,721,0.0,116923.0,Insufficient rental market data - possibly owner-dominated area,Low
+SanAntonio,78883,208,227,0.0,40491.0,Low population - possibly rural or special use area; Low occupancy rate - possible vacation homes or investment properties,High
+SanAntonio,78885,23,88,0.0,68125.0,Very low population - likely industrial/commercial area; Limited housing - possibly mixed-use or institutional area; Low occupancy rate - possible vacation homes or investment properties,High
+SanAntonio,78886,286,148,0.0,123532.0,Low population - possibly rural or special use area; Limited housing - possibly mixed-use or institutional area,High
+SanFrancisco,94018,3834,1576,0.0,230053.0,High income area - possible luxury/custom housing market,Medium
+SanFrancisco,94021,321,140,0.0,,Low population - possibly rural or special use area; Limited housing - possibly mixed-use or institutional area,High
+SanFrancisco,94027,7002,2676,0.0,,Insufficient rental market data - possibly owner-dominated area,Low
+SanFrancisco,94028,6531,2808,0.0,,Insufficient rental market data - possibly owner-dominated area,Low
+SanFrancisco,94038,2683,1039,92.24137931034484,99680.0,Extremely high rental vacancy - area in transition or special circumstances,High
+SanFrancisco,94065,11673,4852,7.765263781861292,215955.0,High income area - possible luxury/custom housing market,Medium
+SanFrancisco,94074,126,35,0.0,,Low population - possibly rural or special use area; Very few housing units - likely commercial/industrial zone,High
+SanFrancisco,94105,13861,10003,11.99748743718593,225000.0,High income area - possible luxury/custom housing market,Medium
+SanFrancisco,94128,0,0,0.0,,Very low population - likely industrial/commercial area; Very few housing units - likely commercial/industrial zone,High
+SanFrancisco,94129,3836,1428,2.4799416484318018,220972.0,High income area - possible luxury/custom housing market,Medium
+SanFrancisco,94158,11314,5123,4.559088182363527,196506.0,High income area - possible luxury/custom housing market,Medium
+SanFrancisco,94188,0,0,0.0,,Very low population - likely industrial/commercial area; Very few housing units - likely commercial/industrial zone,High
+SanFrancisco,94402,25475,10764,4.457885304659498,172522.0,High income area - possible luxury/custom housing market,Medium
+SanFrancisco,94404,35881,15350,5.905460259264109,192332.0,High income area - possible luxury/custom housing market,Medium
+SanFrancisco,94502,13430,4991,5.633802816901409,180938.0,High income area - possible luxury/custom housing market,Medium
+SanFrancisco,94506,27055,9444,1.1754068716094033,,Insufficient rental market data - possibly owner-dominated area,Low
+SanFrancisco,94507,14586,5343,0.0,,Insufficient rental market data - possibly owner-dominated area,Low
+SanFrancisco,94517,12316,4519,0.0,168921.0,High income area - possible luxury/custom housing market,Medium
+SanFrancisco,94526,32584,12185,1.7694882831181251,225097.0,High income area - possible luxury/custom housing market,Medium
+SanFrancisco,94528,1049,463,0.0,207500.0,High income area - possible luxury/custom housing market,Medium
+SanFrancisco,94548,832,259,0.0,189653.0,High income area - possible luxury/custom housing market,Medium
+SanFrancisco,94563,19378,7416,0.0,,Insufficient rental market data - possibly owner-dominated area,Low
+SanFrancisco,94569,296,210,0.0,38929.0,Low population - possibly rural or special use area,High
+SanFrancisco,94575,975,0,0.0,,Very few housing units - likely commercial/industrial zone,High
+SanFrancisco,94586,971,359,19.402985074626866,204931.0,High income area - possible luxury/custom housing market,Medium
+SanFrancisco,94613,472,0,0.0,,Low population - possibly rural or special use area; Very few housing units - likely commercial/industrial zone,High
+SanFrancisco,94720,5763,412,33.730158730158735,,High rental vacancy - economic distress or redevelopment; High occupancy - possible group housing or institutional,Medium
+SanFrancisco,94920,12609,5816,15.805658056580564,246045.0,High income area - possible luxury/custom housing market,Medium
+SanFrancisco,94925,10077,4171,0.0,232763.0,High income area - possible luxury/custom housing market,Medium
+SanFrancisco,94929,293,468,45.23809523809524,209536.0,Low population - possibly rural or special use area; High rental vacancy - economic distress or redevelopment; Low occupancy rate - possible vacation homes or investment properties; High income area - possible luxury/custom housing market,High
+SanFrancisco,94933,1033,601,0.0,133006.0,Insufficient rental market data - possibly owner-dominated area,Low
+SanFrancisco,94938,437,300,27.835051546391753,,Low population - possibly rural or special use area; High rental vacancy - economic distress or redevelopment,High
+SanFrancisco,94940,148,162,0.0,47021.0,Low population - possibly rural or special use area; Limited housing - possibly mixed-use or institutional area; Low occupancy rate - possible vacation homes or investment properties,High
+SanFrancisco,94950,22,11,0.0,,Very low population - likely industrial/commercial area; Very few housing units - likely commercial/industrial zone,High
+SanFrancisco,94957,2321,791,0.0,,Insufficient rental market data - possibly owner-dominated area,Low
+SanFrancisco,94963,739,239,0.0,210823.0,High income area - possible luxury/custom housing market,Medium
+SanFrancisco,94964,2344,244,0.0,115192.0,High occupancy - possible group housing or institutional,Medium
+SanFrancisco,94970,255,693,85.0,132857.0,Low population - possibly rural or special use area; Extremely high rental vacancy - area in transition or special circumstances; Low occupancy rate - possible vacation homes or investment properties,High
+SanFrancisco,94971,276,166,0.0,119028.0,Low population - possibly rural or special use area; Limited housing - possibly mixed-use or institutional area,High
+SanFrancisco,95391,25574,7412,0.0,176952.0,High income area - possible luxury/custom housing market,Medium
+Tampa,33503,891,184,0.0,138553.0,Limited housing - possibly mixed-use or institutional area; High occupancy - possible group housing or institutional,Medium
+Tampa,33530,20,10,0.0,,Very low population - likely industrial/commercial area; Very few housing units - likely commercial/industrial zone,High
+Tampa,33550,0,0,0.0,,Very low population - likely industrial/commercial area; Very few housing units - likely commercial/industrial zone,High
+Tampa,33574,1822,0,0.0,,Very few housing units - likely commercial/industrial zone,High
+Tampa,33620,7298,34,0.0,,Very few housing units - likely commercial/industrial zone; High occupancy - possible group housing or institutional,High
+Tampa,33744,59,0,0.0,,Very low population - likely industrial/commercial area; Very few housing units - likely commercial/industrial zone,High
+Tampa,33786,1582,1187,52.702702702702695,163125.0,Extremely high rental vacancy - area in transition or special circumstances; High income area - possible luxury/custom housing market,High
+Tampa,34661,386,402,0.0,,Low population - possibly rural or special use area; Low occupancy rate - possible vacation homes or investment properties,High
+Tampa,34679,141,165,0.0,,Low population - possibly rural or special use area; Limited housing - possibly mixed-use or institutional area; Low occupancy rate - possible vacation homes or investment properties,High
+Tampa,34681,1284,608,0.0,,Insufficient rental market data - possibly owner-dominated area,Low

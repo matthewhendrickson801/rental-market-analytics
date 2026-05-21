@@ -1,0 +1,69 @@
+feature,importance
+pct_hs_only,0.30928215
+region_HighCost,0.118537985
+Vacancy_Quality_Score,0.10715193
+Vacancy_Quality_Score_Std,0.09873723
+Median Household Income (2020-2024),0.05879008
+region_Midwest,0.052582692
+pct_blue_collar,0.035899386
+pct_bachelors_plus,0.03342812
+Rental Vacancy Rate (2020-2024),0.025809033
+Economic_Vitality_Score,0.023112021
+Per Capita Income (2020-2024),0.015694575
+education_income_ratio,0.014253055
+urban_Urban,0.009906855
+Commute Transportation by Public Transit (2020-2024),0.007972963
+Economic_Stress_Index_Std,0.0073236325
+pct_work_from_home,0.0065188822
+Transit_Accessibility_Index,0.004869074
+Commute Mean Travel Time (2020-2024),0.0047209575
+City_Boom_Score,0.004054939
+Income 200% and Over the Poverty Level (2020-2024),0.0034104406
+Economic_Stress_Index,0.002555525
+Renter Excessive Housing Costs (2020-2024),0.002401706
+Income 185% to 199% the Poverty Level (2020-2024),0.0023880135
+Housing_Age_Diversity_Index,0.0023790232
+Income 100% to 124% the Poverty Level (2020-2024),0.0023631633
+Housing Built 2020 or Later (2020-2024),0.0023502503
+professional_density,0.0023366394
+Housing Built 1960 to 1969 (2020-2024),0.002129485
+Housing Built 2000 to 2009 (2020-2024),0.0020737783
+total_jobs,0.00204845
+pct_mgmt_professional,0.0020153667
+Housing Built 2010 to 2019 (2020-2024),0.0019793573
+Income 150% to 184% the Poverty Level (2020-2024),0.0019292932
+No Vehicles Available (2020-2024),0.0018875669
+pct_service_occup,0.0018595125
+Housing Built 1990 to 1999 (2020-2024),0.001824813
+Housing Built 1939 or Earlier (2020-2024),0.0017315004
+pct_some_college,0.0017151071
+Income 49% and Below Poverty Level (2020-2024),0.0014854653
+Home Owner Excessive Housing Costs (2020-2024),0.001328185
+Housing Built 1980 to 1989 (2020-2024),0.0013256356
+Housing Built 1970 to 1979 (2020-2024),0.0012752431
+Unemployment Rate (2020-2024),0.0012709219
+urban_SemiRural,0.0010979376
+Housing Built 1940 to 1949 (2020-2024),0.0010865007
+pct_less_than_hs,0.0010585604
+Housing Built 1950 to 1959 (2020-2024),0.00091923954
+Homeowner Vacancy Rate (2020-2024),0.0008984882
+jobs_per_capita,0.00089310756
+Total Population (2020-2024),0.0008567902
+Transit_Accessibility_Index_Std,0.0008232968
+Ultra_Recent_Boost,0.0007860746
+New_Development_Score,0.00076084066
+Percent Change in Population (Difference Decennial Census 2020 - 2010),0.00075717724
+urban_Rural,0.00055013166
+pct_sales_office,0.0005298572
+Income 125% to 149% the Poverty Level (2020-2024),0.00051013764
+Total Housing Units (2020-2024),0.0004480238
+Labor Force Participation Rate (2020-2024),0.00041701927
+Population_Growth_Score,0.00030612125
+Income 50% to 99% the Poverty Level (2020-2024),0.00025504653
+total_employed,0.00024277391
+region_South,8.455955e-05
+high_remote_work,8.373976e-06
+pct_tech_jobs,0.0
+pct_service_jobs,0.0
+pct_manufacturing_jobs,0.0
+high_tech_area,0.0

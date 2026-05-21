@@ -1,0 +1,70 @@
+feature,importance
+pct_hs_only,0.18678086
+remote_work_premium,0.09637896
+Vacancy_Quality_Score,0.0904032
+Vacancy_Quality_Score_Std,0.08241678
+urban_Urban,0.06519132
+pct_bachelors_plus,0.05220164
+pct_blue_collar,0.0503203
+region_HighCost,0.049775295
+Median Household Income (2020-2024),0.042610187
+region_Midwest,0.031879142
+Per Capita Income (2020-2024),0.024388134
+Rental Vacancy Rate (2020-2024),0.0229451
+Economic_Vitality_Score,0.022321222
+region_South,0.019029174
+education_income_ratio,0.01624464
+Income 200% and Over the Poverty Level (2020-2024),0.009261506
+Commute Transportation by Public Transit (2020-2024),0.009223551
+Economic_Stress_Index_Std,0.00879861
+Transit_Accessibility_Index,0.008475463
+Housing_Age_Diversity_Index,0.0070032887
+Transit_Accessibility_Index_Std,0.00688169
+Commute Mean Travel Time (2020-2024),0.0057298867
+City_Boom_Score,0.005432438
+Housing Built 1940 to 1949 (2020-2024),0.00529566
+Income 49% and Below Poverty Level (2020-2024),0.0049677924
+pct_work_from_home,0.0044175526
+Income 185% to 199% the Poverty Level (2020-2024),0.004369844
+Housing Built 1939 or Earlier (2020-2024),0.004148964
+Home Owner Excessive Housing Costs (2020-2024),0.0040504164
+Income 125% to 149% the Poverty Level (2020-2024),0.0036612947
+Economic_Stress_Index,0.0032932635
+Housing Built 2000 to 2009 (2020-2024),0.0029677371
+pct_service_occup,0.002879766
+total_jobs,0.0026735936
+New_Development_Score,0.00251073
+Housing Built 2010 to 2019 (2020-2024),0.0024661473
+Housing Built 1990 to 1999 (2020-2024),0.0022916803
+Income 150% to 184% the Poverty Level (2020-2024),0.0020825223
+Total Housing Units (2020-2024),0.0020421464
+No Vehicles Available (2020-2024),0.0019534752
+Income 100% to 124% the Poverty Level (2020-2024),0.001935734
+Housing Built 1970 to 1979 (2020-2024),0.0019103931
+Housing Built 2020 or Later (2020-2024),0.0018737975
+Percent Change in Population (Difference Decennial Census 2020 - 2010),0.0018597526
+pct_less_than_hs,0.0017392583
+jobs_per_capita_log,0.001725926
+pct_some_college,0.0016995596
+Ultra_Recent_Boost,0.001692914
+Housing Built 1950 to 1959 (2020-2024),0.0016513345
+Renter Excessive Housing Costs (2020-2024),0.0015750893
+education_occupation_mismatch,0.0015676292
+Housing Built 1960 to 1969 (2020-2024),0.0015053833
+pct_sales_office,0.0013154224
+service_economy_index,0.0011055757
+Labor Force Participation Rate (2020-2024),0.0010498753
+urban_Rural,0.0010031272
+Income 50% to 99% the Poverty Level (2020-2024),0.0009156583
+Unemployment Rate (2020-2024),0.00077867624
+urban_SemiRural,0.0007768628
+Population_Growth_Score,0.00073547417
+Housing Built 1980 to 1989 (2020-2024),0.00069942494
+Homeowner Vacancy Rate (2020-2024),0.00048100934
+Total Population (2020-2024),0.00044879975
+high_remote_work,0.00018838074
+pct_manufacturing_jobs,0.0
+high_tech_area,0.0
+pct_service_jobs,0.0
+commercial_district,0.0
+pct_tech_jobs,0.0

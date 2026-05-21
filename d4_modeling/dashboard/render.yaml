@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: stateofjax-dashboard
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn duval_dashboard:server
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.9.0

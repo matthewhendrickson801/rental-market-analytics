@@ -1,0 +1,159 @@
+DELIVERABLE 4 - SUBMISSION PACKAGE CONTENTS
+===========================================
+
+Team: WMK (Matthew Hendrickson, William Hughes, Khanh Linh Lieu)
+Stakeholder: StateofJax (Non-Profit Organization)
+Date: April 1, 2026
+
+===========================================
+MAIN DELIVERABLE (REQUIRED)
+===========================================
+
+1. D4_MODEL_SELECTION_REPORT.md
+   - Primary submission document (54KB, 1,060 lines)
+   - All 6 required sections completed
+   - Enhanced with glossary, references, Jacksonville deep-dive
+   - Convert to PDF/Word before final submission
+
+===========================================
+SUPPORTING DOCUMENTS
+===========================================
+
+2. D4_EXECUTIVE_SUMMARY.md
+   - 1-page overview for StateofJax leadership
+   - Non-technical summary of key findings
+
+3. D4_SUBMISSION_CHECKLIST.md
+   - Verification of all requirements met
+   - Points breakdown (100 total)
+
+4. JACKSONVILLE_AFFORDABILITY_REPORT.md
+   - Detailed Jacksonville-specific analysis
+   - All 54 ZIPs with predictions
+
+5. D4_FINAL_SUBMISSION_GUIDE.md
+   - Complete submission instructions
+   - Quality assurance checklist
+
+6. QUICK_REFERENCE_D4.md
+   - Quick facts and key numbers
+   - Elevator pitches for presentations
+
+===========================================
+VISUALIZATIONS (6 REQUIRED)
+===========================================
+
+7. visualizations/d4/01_model_comparison.png
+   - XGBoost vs. Linear/Ridge/Random Forest performance
+
+8. visualizations/d4/02_feature_importance.png
+   - Top 15 features (urban classification 47%)
+
+9. visualizations/d4/03_train_val_test_performance.png
+   - R² and RMSE across train/validation/test splits
+
+10. visualizations/d4/04_jacksonville_affordability_distribution.png
+    - 5 affordability categories for Jacksonville ZIPs
+
+11. visualizations/d4/05_jacksonville_top_opportunities.png
+    - Top 5 affordable vs. top 5 overpriced Jacksonville ZIPs
+
+12. visualizations/d4/06_data_exclusions.png
+    - Summary of 28 excluded ZIPs (16 military + 12 retirement)
+
+===========================================
+DATA FILES (REFERENCE)
+===========================================
+
+13. data/removed_military_zips.csv
+    - 16 military base ZIP codes excluded from training
+
+14. data/removed_retirement_zips.csv
+    - 12 retirement community ZIP codes excluded from training
+
+15. dashboard/data/dashboard_data.csv
+    - All predictions including 54 Jacksonville ZIPs
+    - Used for Jacksonville analysis in Appendix A
+
+===========================================
+MODEL FILES (REFERENCE)
+===========================================
+
+16. models/regression/xgboost.pkl
+    - Trained XGBoost model (R²=0.757, RMSE=$241)
+
+17. results/metrics/all_models_comparison.csv
+    - Performance comparison across all models tested
+
+18. results/metrics/xgboost_feature_importance.csv
+    - Feature importance rankings
+
+===========================================
+SUBMISSION INSTRUCTIONS
+===========================================
+
+STEP 1: Convert Main Report to PDF/Word
+   Option A (Pandoc): 
+   pandoc D4_MODEL_SELECTION_REPORT.md -o D4_Model_Selection_Report.pdf --toc --number-sections
+   
+   Option B (Word):
+   pandoc D4_MODEL_SELECTION_REPORT.md -o D4_Model_Selection_Report.docx --toc
+   
+   Option C (Manual):
+   Copy markdown to Word, apply formatting, add page numbers
+
+STEP 2: Include Supporting Materials
+   - Attach executive summary as appendix
+   - Embed or reference 6 visualizations
+   - Include Jacksonville affordability report as appendix
+
+STEP 3: Final Checks
+   - Verify all citations present
+   - Check formatting consistency
+   - Proofread for typos
+   - Ensure page numbers and TOC
+
+STEP 4: Submit
+   - Submit PDF/Word by April 1, 2026
+   - Include team member names on cover page
+   - Reference StateofJax stakeholder
+
+===========================================
+KEY METRICS SUMMARY
+===========================================
+
+Model Performance:
+- R² (Validation): 0.757 (75.7% variance explained)
+- RMSE: $241 (average prediction error)
+- MAE: $182 (typical error)
+- MAPE: 10% (median percentage error)
+
+Dataset:
+- 14 cities analyzed
+- 1,738 total ZIP codes
+- 54 Jacksonville ZIP codes
+- 38 features across 8 categories
+- 28 ZIP codes excluded (16 military + 12 retirement)
+
+Jacksonville Findings:
+- 97.5% market efficiency
+- 2 highly affordable ZIPs (32068, 32091)
+- 7 affordable ZIPs
+- 8 highly overpriced ZIPs (St. Augustine area)
+
+===========================================
+CONTACT INFORMATION
+===========================================
+
+Team WMK:
+- Matthew Hendrickson
+- William Hughes
+- Khanh Linh Lieu
+
+Stakeholder: StateofJax (Non-Profit Organization)
+Academic: University of North Florida Computer Science Department
+Submission Date: April 1, 2026
+
+===========================================
+END OF PACKAGE CONTENTS
+===========================================

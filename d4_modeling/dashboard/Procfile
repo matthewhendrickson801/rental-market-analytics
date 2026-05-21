@@ -1,0 +1,1 @@
+web: gunicorn duval_dashboard:server

@@ -1,0 +1,39 @@
+Feature,Importance
+urban_Urban,0.46986145
+Per Capita Income (2020-2024),0.12166514
+region_HighCost,0.09585717
+Median Household Income (2020-2024),0.045979705
+Income 200% and Over the Poverty Level (2020-2024),0.041467123
+region_Midwest,0.02006545
+urban_SemiRural,0.015570814
+Percent Change in Population (Difference Decennial Census 2020 - 2010),0.014755752
+Renter Excessive Housing Costs (2020-2024),0.013392593
+Home Owner Excessive Housing Costs (2020-2024),0.013343645
+urban_Rural,0.0097414
+Commute Transportation by Public Transit (2020-2024),0.009541471
+Labor Force Participation Rate (2020-2024),0.009302081
+Total Population (2020-2024),0.0090565365
+Total Housing Units (2020-2024),0.007609225
+Housing Built 1939 or Earlier (2020-2024),0.0069730845
+No Vehicles Available (2020-2024),0.0066170865
+poverty_rate_pct,0.0063644256
+Commute Mean Travel Time (2020-2024),0.0062756017
+Unemployment Rate (2020-2024),0.006247958
+region_South,0.0058053653
+Housing Built 1940 to 1949 (2020-2024),0.005177697
+Housing Built 2000 to 2009 (2020-2024),0.0051311483
+Housing Built 1960 to 1969 (2020-2024),0.0048891236
+Housing Built 1950 to 1959 (2020-2024),0.004755881
+Income 49% and Below Poverty Level (2020-2024),0.0043266984
+Income 185% to 199% the Poverty Level (2020-2024),0.0042263037
+Housing Built 2010 to 2019 (2020-2024),0.004210787
+Housing Built 1980 to 1989 (2020-2024),0.0041446323
+Housing Built 1970 to 1979 (2020-2024),0.0040209955
+Income 150% to 184% the Poverty Level (2020-2024),0.0037364261
+Housing Built 2020 or Later (2020-2024),0.0035052276
+Income 50% to 99% the Poverty Level (2020-2024),0.0034339342
+Housing Built 1990 to 1999 (2020-2024),0.002875302
+Income 125% to 149% the Poverty Level (2020-2024),0.0027928988
+Rental Vacancy Rate (2020-2024),0.0026773082
+Homeowner Vacancy Rate (2020-2024),0.002483884
+Income 100% to 124% the Poverty Level (2020-2024),0.0021186192
